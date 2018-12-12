@@ -1,0 +1,5 @@
+12-12-2018 14:21:36:920 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35002,groupXX@127.0.1.1:35002]
+12-12-2018 14:21:36:997 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
+12-12-2018 14:21:37:003 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+12-12-2018 14:21:37:012 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionPartnerSide] [session: 1] TSAE session
+12-12-2018 14:21:37:013 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionPartnerSide] [session: 1] received message: MessageAErequest [session: 1, summary=null]

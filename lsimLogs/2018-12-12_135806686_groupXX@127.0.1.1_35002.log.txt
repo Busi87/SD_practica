@@ -1,0 +1,176 @@
+12-12-2018 13:58:06:686 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35002,groupXX@127.0.1.1:35002]
+12-12-2018 13:58:06:761 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
+12-12-2018 13:58:06:766 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+12-12-2018 13:58:06:781 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionPartnerSide] [session: 1] TSAE session
+12-12-2018 13:58:06:782 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionPartnerSide] [session: 1] received message: MessageAErequest [session: 1, summary=null]
+12-12-2018 14:12:11:055 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 1] End TSAE session
+12-12-2018 14:12:11:056 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+12-12-2018 14:12:11:057 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 2] End TSAE session
+12-12-2018 14:12:11:057 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 3] TSAE session
+12-12-2018 14:12:11:058 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 3] End TSAE session
+12-12-2018 14:12:11:058 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 4] TSAE session
+12-12-2018 14:12:11:059 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 4] End TSAE session
+12-12-2018 14:12:11:059 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 5] TSAE session
+12-12-2018 14:12:11:060 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 5] End TSAE session
+12-12-2018 14:12:11:060 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 6] TSAE session
+12-12-2018 14:12:11:061 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 6] End TSAE session
+12-12-2018 14:12:11:061 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 7] TSAE session
+12-12-2018 14:12:11:062 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 7] End TSAE session
+12-12-2018 14:12:11:062 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 8] TSAE session
+12-12-2018 14:12:11:063 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 8] End TSAE session
+12-12-2018 14:12:11:063 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 9] TSAE session
+12-12-2018 14:12:11:064 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 9] End TSAE session
+12-12-2018 14:12:11:064 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 10] TSAE session
+12-12-2018 14:12:11:065 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 10] End TSAE session
+12-12-2018 14:12:11:065 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 11] TSAE session
+12-12-2018 14:12:11:066 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 11] End TSAE session
+12-12-2018 14:12:11:066 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 12] TSAE session
+12-12-2018 14:12:11:067 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 12] End TSAE session
+12-12-2018 14:12:11:067 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 13] TSAE session
+12-12-2018 14:12:11:067 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 13] End TSAE session
+12-12-2018 14:12:11:068 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 14] TSAE session
+12-12-2018 14:12:11:068 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 14] End TSAE session
+12-12-2018 14:12:11:069 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 15] TSAE session
+12-12-2018 14:12:11:069 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 15] End TSAE session
+12-12-2018 14:12:11:069 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 16] TSAE session
+12-12-2018 14:12:11:070 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 16] End TSAE session
+12-12-2018 14:12:11:070 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 17] TSAE session
+12-12-2018 14:12:11:071 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 17] End TSAE session
+12-12-2018 14:12:11:071 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 18] TSAE session
+12-12-2018 14:12:11:072 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 18] End TSAE session
+12-12-2018 14:12:11:072 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 19] TSAE session
+12-12-2018 14:12:11:073 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 19] End TSAE session
+12-12-2018 14:12:11:073 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 20] TSAE session
+12-12-2018 14:12:11:074 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 20] End TSAE session
+12-12-2018 14:12:11:074 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 21] TSAE session
+12-12-2018 14:12:11:074 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 21] End TSAE session
+12-12-2018 14:12:11:075 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 22] TSAE session
+12-12-2018 14:12:11:075 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 22] End TSAE session
+12-12-2018 14:12:11:076 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 23] TSAE session
+12-12-2018 14:12:11:076 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 23] End TSAE session
+12-12-2018 14:12:11:076 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 24] TSAE session
+12-12-2018 14:12:11:077 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 24] End TSAE session
+12-12-2018 14:12:11:077 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 25] TSAE session
+12-12-2018 14:12:11:078 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 25] End TSAE session
+12-12-2018 14:12:11:078 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 26] TSAE session
+12-12-2018 14:12:11:078 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 26] End TSAE session
+12-12-2018 14:12:11:079 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 27] TSAE session
+12-12-2018 14:12:11:079 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 27] End TSAE session
+12-12-2018 14:12:11:080 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 28] TSAE session
+12-12-2018 14:12:11:080 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 28] End TSAE session
+12-12-2018 14:12:11:080 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 29] TSAE session
+12-12-2018 14:12:11:081 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 29] End TSAE session
+12-12-2018 14:12:11:081 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 30] TSAE session
+12-12-2018 14:12:11:082 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 30] End TSAE session
+12-12-2018 14:12:11:082 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 31] TSAE session
+12-12-2018 14:12:11:083 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 31] End TSAE session
+12-12-2018 14:12:11:083 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 32] TSAE session
+12-12-2018 14:12:11:083 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 32] End TSAE session
+12-12-2018 14:12:11:084 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 33] TSAE session
+12-12-2018 14:12:11:084 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 33] End TSAE session
+12-12-2018 14:12:11:084 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 34] TSAE session
+12-12-2018 14:12:11:085 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 34] End TSAE session
+12-12-2018 14:12:11:085 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 35] TSAE session
+12-12-2018 14:12:11:086 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 35] End TSAE session
+12-12-2018 14:12:11:086 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 36] TSAE session
+12-12-2018 14:12:11:087 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 36] End TSAE session
+12-12-2018 14:12:11:087 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 37] TSAE session
+12-12-2018 14:12:11:087 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 37] End TSAE session
+12-12-2018 14:12:11:088 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 38] TSAE session
+12-12-2018 14:12:11:088 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 38] End TSAE session
+12-12-2018 14:12:11:089 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 39] TSAE session
+12-12-2018 14:12:11:089 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 39] End TSAE session
+12-12-2018 14:12:11:090 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 40] TSAE session
+12-12-2018 14:12:11:090 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 40] End TSAE session
+12-12-2018 14:12:11:091 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 41] TSAE session
+12-12-2018 14:12:11:091 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 41] End TSAE session
+12-12-2018 14:12:11:092 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 42] TSAE session
+12-12-2018 14:12:11:092 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 42] End TSAE session
+12-12-2018 14:12:11:092 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 43] TSAE session
+12-12-2018 14:12:11:093 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 43] End TSAE session
+12-12-2018 14:12:11:093 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 44] TSAE session
+12-12-2018 14:12:11:094 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 44] End TSAE session
+12-12-2018 14:12:11:094 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 45] TSAE session
+12-12-2018 14:12:11:095 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 45] End TSAE session
+12-12-2018 14:12:11:095 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 46] TSAE session
+12-12-2018 14:12:11:096 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 46] End TSAE session
+12-12-2018 14:12:11:096 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 47] TSAE session
+12-12-2018 14:12:11:097 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 47] End TSAE session
+12-12-2018 14:12:11:097 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 48] TSAE session
+12-12-2018 14:12:11:098 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 48] End TSAE session
+12-12-2018 14:12:11:098 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 49] TSAE session
+12-12-2018 14:12:11:098 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 49] End TSAE session
+12-12-2018 14:12:11:099 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 50] TSAE session
+12-12-2018 14:12:11:099 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 50] End TSAE session
+12-12-2018 14:12:11:100 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 51] TSAE session
+12-12-2018 14:12:11:100 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 51] End TSAE session
+12-12-2018 14:12:11:100 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 52] TSAE session
+12-12-2018 14:12:11:101 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 52] End TSAE session
+12-12-2018 14:12:11:101 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 53] TSAE session
+12-12-2018 14:12:11:102 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 53] End TSAE session
+12-12-2018 14:12:11:102 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 54] TSAE session
+12-12-2018 14:12:11:102 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 54] End TSAE session
+12-12-2018 14:12:11:103 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 55] TSAE session
+12-12-2018 14:12:11:103 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 55] End TSAE session
+12-12-2018 14:12:11:103 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 56] TSAE session
+12-12-2018 14:12:11:104 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 56] End TSAE session
+12-12-2018 14:12:11:104 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 57] TSAE session
+12-12-2018 14:12:11:105 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 57] End TSAE session
+12-12-2018 14:12:11:105 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 58] TSAE session
+12-12-2018 14:12:11:105 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 58] End TSAE session
+12-12-2018 14:12:11:106 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 59] TSAE session
+12-12-2018 14:12:11:106 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 59] End TSAE session
+12-12-2018 14:12:11:107 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 60] TSAE session
+12-12-2018 14:12:11:107 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 60] End TSAE session
+12-12-2018 14:12:11:108 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 61] TSAE session
+12-12-2018 14:12:11:108 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 61] End TSAE session
+12-12-2018 14:12:11:109 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 62] TSAE session
+12-12-2018 14:12:11:109 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 62] End TSAE session
+12-12-2018 14:12:11:110 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 63] TSAE session
+12-12-2018 14:12:11:110 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 63] End TSAE session
+12-12-2018 14:12:11:110 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 64] TSAE session
+12-12-2018 14:12:11:111 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 64] End TSAE session
+12-12-2018 14:12:11:111 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 65] TSAE session
+12-12-2018 14:12:11:112 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 65] End TSAE session
+12-12-2018 14:12:11:112 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 66] TSAE session
+12-12-2018 14:12:11:113 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 66] End TSAE session
+12-12-2018 14:12:11:113 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 67] TSAE session
+12-12-2018 14:12:11:113 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 67] End TSAE session
+12-12-2018 14:12:11:114 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 68] TSAE session
+12-12-2018 14:12:11:114 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 68] End TSAE session
+12-12-2018 14:12:11:114 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 69] TSAE session
+12-12-2018 14:12:11:115 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 69] End TSAE session
+12-12-2018 14:12:11:115 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 70] TSAE session
+12-12-2018 14:12:11:116 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 70] End TSAE session
+12-12-2018 14:12:11:116 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 71] TSAE session
+12-12-2018 14:12:11:116 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 71] End TSAE session
+12-12-2018 14:12:11:117 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 72] TSAE session
+12-12-2018 14:12:11:117 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 72] End TSAE session
+12-12-2018 14:12:11:118 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 73] TSAE session
+12-12-2018 14:12:11:118 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 73] End TSAE session
+12-12-2018 14:12:11:119 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 74] TSAE session
+12-12-2018 14:12:11:119 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 74] End TSAE session
+12-12-2018 14:12:11:119 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 75] TSAE session
+12-12-2018 14:12:11:120 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 75] End TSAE session
+12-12-2018 14:12:11:120 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 76] TSAE session
+12-12-2018 14:12:11:120 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 76] End TSAE session
+12-12-2018 14:12:11:121 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 77] TSAE session
+12-12-2018 14:12:11:121 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 77] End TSAE session
+12-12-2018 14:12:11:121 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 78] TSAE session
+12-12-2018 14:12:11:122 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 78] End TSAE session
+12-12-2018 14:12:11:122 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 79] TSAE session
+12-12-2018 14:12:11:123 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 79] End TSAE session
+12-12-2018 14:12:11:123 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 80] TSAE session
+12-12-2018 14:12:11:123 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 80] End TSAE session
+12-12-2018 14:12:11:124 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 81] TSAE session
+12-12-2018 14:12:11:124 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 81] End TSAE session
+12-12-2018 14:12:11:124 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 82] TSAE session
+12-12-2018 14:12:11:125 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 82] End TSAE session
+12-12-2018 14:12:11:125 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 83] TSAE session
+12-12-2018 14:12:11:125 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 83] End TSAE session
+12-12-2018 14:12:11:126 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 84] TSAE session
+12-12-2018 14:12:11:126 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 84] End TSAE session
+12-12-2018 14:12:11:126 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 85] TSAE session
+12-12-2018 14:12:11:127 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 85] End TSAE session
+12-12-2018 14:12:11:127 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 86] TSAE session
+12-12-2018 14:12:11:127 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 86] End TSAE session
