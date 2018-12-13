@@ -33,6 +33,7 @@ import recipes_service.data.AddOperation;
 import recipes_service.data.Operation;
 import recipes_service.data.Recipe;
 import recipes_service.data.Recipes;
+import recipes_service.data.RemoveOperation;
 import recipes_service.tsae.data_structures.Log;
 import recipes_service.tsae.data_structures.Timestamp;
 import recipes_service.tsae.data_structures.TimestampMatrix;
@@ -158,6 +159,17 @@ public class ServerData {
 		System.err.println("Error: removeRecipe method (recipesService.serverData) not yet implemented");
 	}
 	
+	public synchronized void execOperation(AddOperation addOp) {
+        if (this.log.add(addOp)) {
+            this.recipes.add(addOp.getRecipe());
+        }
+    }
+
+	public synchronized void execOperation(RemoveOperation removeOp) {
+	    if (this.log.add(removeOp)) {
+	        this.recipes.remove(removeOp.getRecipeTitle());
+	    }
+	}
 
 	// ****************************************************************************
 	// *** operations to get the TSAE data structures. Used to send to evaluation

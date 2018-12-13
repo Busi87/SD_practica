@@ -23,6 +23,7 @@ package recipes_service.tsae.sessions;
 
 import java.io.IOException;
 import java.net.Socket;
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Vector;
@@ -39,6 +40,7 @@ import recipes_service.data.AddOperation;
 import recipes_service.data.Operation;
 import recipes_service.data.OperationType;
 import recipes_service.data.Recipe;
+import recipes_service.data.RemoveOperation;
 import recipes_service.tsae.data_structures.Log;
 import recipes_service.tsae.data_structures.TimestampMatrix;
 import recipes_service.tsae.data_structures.TimestampVector;
@@ -127,45 +129,36 @@ public class TSAESessionPartnerSide extends Thread{
 				out.writeObject(msg);
 				//<....
 				
-				
+				List <MessageOperation> listOperations = new ArrayList();
 	            // receive operations
 				msg = (Message) in.readObject();
 				lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
 				while (msg.type() == MsgType.OPERATION){
 					
-					
-					// > ...
-					Operation op = ((MessageOperation) msg).getOperation();
-                    if(op.getType()== OperationType.ADD){
-                        Recipe rcpe = ((AddOperation) op).getRecipe();
-                        serverData.getRecipes().add(rcpe);
-                    }
-                    serverData.getLog().add(op);
-                    msg = (Message) in.readObject();
-					//< ...
-                    
-                    
-					msg = (Message) in.readObject();
-					lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
-				}
+					listOperations.add((MessageOperation) msg); 
+	            	msg = (Message) in.readObject();
+	            }
 				
-				// receive message to inform about the ending of the TSAE session
-				if (msg.type() == MsgType.END_TSAE){
+			// receive message to inform about the ending of the TSAE session
+	            if (msg.type() == MsgType.END_TSAE){
+	            	// send and "end of TSAE session" 
+	            	msg = new MessageEndTSAE();
+	            	out.writeObject(msg);
+	            }
+	            synchronized (serverData) {
+                    for (MessageOperation op : listOperations) {
+                        if (op.getOperation().getType() == OperationType.ADD) {
+                            serverData.execOperation( (AddOperation) op.getOperation() );
+                        } else {
+                        	  serverData.execOperation( (RemoveOperation) op.getOperation());
+                        }
+                    }
 					
-					
-					// >...
-					serverData.getSummary().updateMax(originatorSummary);
-                    serverData.getAck().updateMax(((MessageAErequest) msg).getAck());
+					//Update summary
+					serverData.getSummary().updateMax(msgAe.getSummary());
+                    serverData.getAck().updateMax(msgAe.getAck());
                     serverData.getLog().purgeLog(serverData.getAck());
-					// <...
-                    
-                    
-					// send and "end of TSAE session" message
-					msg = new MessageEndTSAE();
-					msg.setSessionNumber(current_session_number);
-		            out.writeObject(msg);					
-					lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
-				}
+}
 				
 			}
 			socket.close();		
