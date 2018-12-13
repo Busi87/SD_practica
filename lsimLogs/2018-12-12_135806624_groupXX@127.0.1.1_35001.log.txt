@@ -1,7 +1,0 @@
-12-12-2018 13:58:06:624 groupXX@127.0.1.1:35001 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35001,groupXX@127.0.1.1:35001]
-12-12-2018 13:58:06:707 groupXX@127.0.1.1:35001 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
-12-12-2018 13:58:06:723 groupXX@127.0.1.1:35001 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
-12-12-2018 13:59:31:319 groupXX@127.0.1.1:35001 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[asda, asdaw, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
-12-12-2018 13:59:31:319 groupXX@127.0.1.1:35001 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35001:   0
-12-12-2018 13:59:40:734 groupXX@127.0.1.1:35001 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[qwe, fqwqertqwrt, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
-12-12-2018 13:59:40:735 groupXX@127.0.1.1:35001 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35001:   1
