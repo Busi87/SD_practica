@@ -1,0 +1,18 @@
+13-12-2018 14:43:38:405 groupXX@127.0.1.1:35004 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35004,groupXX@127.0.1.1:35004]
+13-12-2018 14:43:38:487 groupXX@127.0.1.1:35004 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002, groupXX@127.0.1.1:35003, groupXX@127.0.1.1:35004, groupXX@127.0.1.1:35005, groupXX@127.0.1.1:35006, groupXX@127.0.1.1:35007, groupXX@127.0.1.1:35008, groupXX@127.0.1.1:35009, groupXX@127.0.1.1:35010, groupXX@127.0.1.1:35011, groupXX@127.0.1.1:35012, groupXX@127.0.1.1:35013, groupXX@127.0.1.1:35014]
+13-12-2018 14:43:38:539 groupXX@127.0.1.1:35004 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+13-12-2018 14:43:45:566 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] ADD recipe: ydjhpdjm
+13-12-2018 14:43:45:566 groupXX@127.0.1.1:35004 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[ydjhpdjm, Content--ydjhpdjm, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+13-12-2018 14:43:45:567 groupXX@127.0.1.1:35004 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35004:   0
+13-12-2018 14:44:05:566 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] ADD recipe: ubixnijj
+13-12-2018 14:44:05:566 groupXX@127.0.1.1:35004 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[ubixnijj, Content--ubixnijj, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+13-12-2018 14:44:05:567 groupXX@127.0.1.1:35004 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35004:   1
+13-12-2018 14:45:05:567 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] >> Server DISCONNECTION
+13-12-2018 14:46:05:575 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] >> Server RECONNECTION
+13-12-2018 14:46:25:566 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] >> Server DISCONNECTION
+13-12-2018 14:47:05:565 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] >> Server RECONNECTION
+13-12-2018 14:47:25:565 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] ADD recipe: lfsdmveq
+13-12-2018 14:47:25:565 groupXX@127.0.1.1:35004 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[lfsdmveq, Content--lfsdmveq, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+13-12-2018 14:47:25:566 groupXX@127.0.1.1:35004 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35004:   2
+13-12-2018 14:47:45:565 groupXX@127.0.1.1:35004 [INFO] : [groupXX@127.0.1.1:35004] >> Server DISCONNECTION
+13-12-2018 14:48:39:148 groupXX@127.0.1.1:35004 [INFO] : Server groupXX@127.0.1.1:35004 finishes Activity Simulation. It will stop because is not connected

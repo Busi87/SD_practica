@@ -1,0 +1,29 @@
+13-12-2018 14:18:22:281 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35000,groupXX@127.0.1.1:35000]
+13-12-2018 14:18:22:295 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
+13-12-2018 14:18:22:301 groupXX@127.0.1.1:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+13-12-2018 14:20:42:936 groupXX@127.0.1.1:35000 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[kjdvkjfvbi, scnsa, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+13-12-2018 14:20:42:936 groupXX@127.0.1.1:35000 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35000:   0
+13-12-2018 14:20:53:462 groupXX@127.0.1.1:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+13-12-2018 14:20:53:546 groupXX@127.0.1.1:35000 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[asdasd, asdasd, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+13-12-2018 14:20:59:419 groupXX@127.0.1.1:35000 [DEBUG] : {asdasd=[asdasd, asdasd, groupXX], kjdvkjfvbi=[kjdvkjfvbi, scnsa, groupXX]}
+13-12-2018 14:20:59:421 groupXX@127.0.1.1:35000 [DEBUG] : AddOperation [recipe=[asdasd, asdasd, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[kjdvkjfvbi, scnsa, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+
+13-12-2018 14:20:59:421 groupXX@127.0.1.1:35000 [DEBUG] : Summary: groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   0
+
+13-12-2018 14:20:59:422 groupXX@127.0.1.1:35000 [DEBUG] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   -1000
+
+
+13-12-2018 14:20:59:422 groupXX@127.0.1.1:35000 [INFO] : END

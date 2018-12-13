@@ -25,6 +25,7 @@ import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
 //LSim logging system imports sgeag@2017
@@ -64,13 +65,7 @@ public class TimestampVector implements Serializable{
 	 */
 	public synchronized void updateTimestamp(Timestamp timestamp){
 		lsim.log(Level.TRACE, "Updating the TimestampVectorInserting with the timestamp: "+timestamp);
-		
-		//updating client info
-		if (timestamp != null) {
-            this.timestampVector.replace(timestamp.getHostid(), timestamp);
-        }
-		
-	
+		if (timestamp != null) this.timestampVector.replace(timestamp.getHostid(), timestamp);
 	}
 	
 	/**
@@ -78,14 +73,23 @@ public class TimestampVector implements Serializable{
 	 * @param tsVector (a timestamp vector)
 	 */
 	public synchronized void updateMax(TimestampVector tsVector){
-		//METODO COMPLETAMENTE NUEVO Y A MODIFICAR
-		for (String key : this.timestampVector.keySet()) {
-            Timestamp ts = tsVector.getLast(key);
-            Timestamp ts_propio = this.getLast(key);
-            if(ts_propio.compare(ts) < 0) {            
-                this.timestampVector.replace(key, ts);            
-            }
-        }
+		if( tsVector != null ){
+			Set<String> hosts = this.timestampVector.keySet();
+		
+			
+			//iterate over the keys (host) of the hashmap to update if it is necessary,
+			//its timestamp to be maximum
+			for (String host : hosts) {
+				Timestamp max = tsVector.timestampVector.get(host);
+				
+				if( max != null ) {
+					//replace if the timestampVector is higher than the current
+					if ( this.timestampVector.get(host).compare(max) < 0 ) { 
+						timestampVector.replace(host, max);
+					}
+				}
+			}	
+		}
 	}
 	
 	/**
@@ -108,62 +112,73 @@ public class TimestampVector implements Serializable{
 	 *  @param tsVector (timestamp vector)
 	 */
 	public synchronized void mergeMin(TimestampVector tsVector){
-		//METODO COMPLETAMENTE NUEVO Y A MODIFICAR
-		for (String key : tsVector.timestampVector.keySet()) {
-            Timestamp ts = tsVector.getLast(key);
-            Timestamp ts_propio = this.getLast(key);
-            if(ts_propio.compare(ts) > 0) {            
-                this.timestampVector.put(ts_propio.getHostid(), ts);            
-            }
-        }
+		if( tsVector != null ) {
+			Set<String> hosts = tsVector.timestampVector.keySet();
+			Timestamp min = null;
+			
+			//iterate over the keys (host) of the hashmap to update if it is necessary,
+			//its timestamp to be minimum
+			for (String host : hosts) {
+				min = tsVector.timestampVector.get(host);
+
+				if( this.timestampVector.get(host) != null ) {
+					//replace if the timestampVector is lower than the current
+					if ( min.compare(this.timestampVector.get(host)) < 0) {
+						timestampVector.replace(host, min);
+					}
+				} else {
+					timestampVector.put(host, min);
+				}
+			}
+		}
 	}
 	
 	/**
 	 * clone
 	 */
 	public synchronized TimestampVector clone(){
-		//METODO COMPLETAMENTE NUEVO Y A MODIFICAR
-		List<String> participants = new ArrayList<String>(this.timestampVector.keySet());
-        TimestampVector clone_temp = new TimestampVector(participants);
-
-        for (String key : this.timestampVector.keySet()) {
-            Timestamp ts = this.timestampVector.get(key);
-            clone_temp.timestampVector.put(ts.getHostid(), ts);
-        }
-        return clone_temp;
-		// return generated automatically. Remove it when implementing your solution 
+		Set<String> hosts = timestampVector.keySet();
+		ConcurrentHashMap<String, Timestamp> copy = new ConcurrentHashMap<String, Timestamp>();
 		
+		for (String host : hosts) {
+			copy.put(host, timestampVector.get(host));
+		}
+		
+		List<String> hostsList = new ArrayList<String> (hosts);
+		TimestampVector tsVec = new TimestampVector(hostsList);
+		tsVec.setTimestampVector(copy);
+		
+		return tsVec;
 	}
 	
+	public void setTimestampVector(ConcurrentHashMap<String, Timestamp> timestampVector) {
+		this.timestampVector = timestampVector;
+	}
 	/**
 	 * equals
 	 */
 	public synchronized boolean equals(Object obj){
-	
-       
-		
-		//If is a null object or the class don't match between objects
-				if (obj == null || this.getClass() != obj.getClass() ){
-					return false;
-				}
-				
-				//If the object are the same
-				if (this == obj){
-					return true;
-				}
-				//Compare de HashMap list
-				TimestampVector tempVector = (TimestampVector) obj;
-				//If there's and error/null of the hashmap table
-				if(this.timestampVector == null || tempVector.timestampVector == null){
-					return false;
-				}
-				
-				//Return comparaison in boolean result 
-				return this.timestampVector.equals(tempVector.timestampVector);
-		
-		
-	}
-
+		boolean isEquals = false;
+		if(this == obj)
+			isEquals = true;
+			TimestampVector other = (TimestampVector) obj;
+		if (this.timestampVector == other.timestampVector)
+			isEquals = true;
+		if(other.timestampVector == null)
+			isEquals = false;
+		else
+			isEquals = this.timestampVector.equals(other.timestampVector);
+			return isEquals;
+		}
+	public synchronized boolean equals(TimestampVector other) {
+        if (this.timestampVector == other.timestampVector) {
+            return true;
+        } else if (this.timestampVector == null || other.timestampVector == null) {
+            return false;
+        } else {
+            return this.timestampVector.equals(other.timestampVector);
+        }
+}
 	/**
 	 * toString
 	 */

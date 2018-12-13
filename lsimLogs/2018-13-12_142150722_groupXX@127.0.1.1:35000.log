@@ -1,0 +1,11 @@
+13-12-2018 14:21:50:722 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35000,groupXX@127.0.1.1:35000]
+13-12-2018 14:21:50:745 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002, groupXX@127.0.1.1:35003, groupXX@127.0.1.1:35004, groupXX@127.0.1.1:35005, groupXX@127.0.1.1:35006, groupXX@127.0.1.1:35007, groupXX@127.0.1.1:35008, groupXX@127.0.1.1:35009, groupXX@127.0.1.1:35010, groupXX@127.0.1.1:35011, groupXX@127.0.1.1:35012, groupXX@127.0.1.1:35013, groupXX@127.0.1.1:35014]
+13-12-2018 14:21:50:766 groupXX@127.0.1.1:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+13-12-2018 14:21:58:843 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: fdvupxni
+13-12-2018 14:21:58:845 groupXX@127.0.1.1:35000 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[fdvupxni, Content--fdvupxni, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+13-12-2018 14:21:58:845 groupXX@127.0.1.1:35000 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35000:   0
+13-12-2018 14:22:58:844 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: kwmdrcoo
+13-12-2018 14:22:58:844 groupXX@127.0.1.1:35000 [TRACE] : Inserting into Log the operation: AddOperation [recipe=[kwmdrcoo, Content--kwmdrcoo, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+13-12-2018 14:22:58:845 groupXX@127.0.1.1:35000 [TRACE] : Updating the TimestampVectorInserting with the timestamp: groupXX@127.0.1.1:35000:   1
+13-12-2018 14:25:38:844 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] >> Server DISCONNECTION
+13-12-2018 14:26:50:834 groupXX@127.0.1.1:35000 [INFO] : Server groupXX@127.0.1.1:35000 finishes Activity Simulation. It will stop because is not connected

@@ -56,9 +56,6 @@ import edu.uoc.dpcs.lsim.logger.LoggerManager.Level;
  *
  */
 public class TSAESessionPartnerSide extends Thread{
-	// Needed for the logging system sgeag@2017
-	private LSimWorker lsim = LSimFactory.getWorkerInstance();
-	
 	private Socket socket = null;
 	private ServerData serverData = null;
 	
@@ -69,25 +66,17 @@ public class TSAESessionPartnerSide extends Thread{
 	}
 
 	public void run() {
-
-		Message msg = null;
-
-		int current_session_number = -1;
+				
 		try {
 			ObjectOutputStream_DS out = new ObjectOutputStream_DS(socket.getOutputStream());
 			ObjectInputStream_DS in = new ObjectInputStream_DS(socket.getInputStream());
 
-			
-			
-			// receive originator's summary and ack
-			msg = (Message) in.readObject();
-			current_session_number = msg.getSessionNumber();
-			lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] TSAE session");
-			lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
-			if (msg.type() == MsgType.AE_REQUEST){
-				
-				// > ...
-				TimestampVector originatorSummary = ((MessageAErequest) msg).getSummary();
+			TimestampVector localSummary;
+			TimestampMatrix localAck;
+
+			Message msg = (Message) in.readObject();
+			if (msg.type() == MsgType.AE_REQUEST) {
+                TimestampVector originatorSummary = ((MessageAErequest) msg).getSummary();
                 // send operations
                 Log log = serverData.getLog();
                 List<Operation> operaciones = log.listNewer(originatorSummary);
@@ -96,27 +85,7 @@ public class TSAESessionPartnerSide extends Thread{
                     out.writeObject(new MessageOperation(o));
                 }
 
-                // < ...
-				
-				
-				
-	            // send operations
-					// ...
-					msg.setSessionNumber(current_session_number);
-					out.writeObject(msg);
-					lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
-
-		
-				// send to originator: local's summary and ack
-				TimestampVector localSummary = null;
-				TimestampMatrix localAck = null;
-				msg = new MessageAErequest(localSummary, localAck);
-				msg.setSessionNumber(current_session_number);
-	 	        out.writeObject(msg);
-				lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
-				
-				//>...
-				synchronized (serverData) {
+                synchronized (serverData) {
                     //localSumary is a clone of local
                     localSummary = serverData.getSummary().clone();
                     String serverDataId=serverData.getId();
@@ -124,52 +93,40 @@ public class TSAESessionPartnerSide extends Thread{
                     //localAck is a clone of local
                     localAck = serverData.getAck().clone();
                 }
-				
-				msg = new MessageAErequest (localSummary, localAck);
-				out.writeObject(msg);
-				//<....
-				
-				List <MessageOperation> listOperations = new ArrayList();
-	            // receive operations
-				msg = (Message) in.readObject();
-				lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
-				while (msg.type() == MsgType.OPERATION){
-					
-					listOperations.add((MessageOperation) msg); 
-	            	msg = (Message) in.readObject();
-	            }
-				
-			// receive message to inform about the ending of the TSAE session
-	            if (msg.type() == MsgType.END_TSAE){
-	            	// send and "end of TSAE session" 
-	            	msg = new MessageEndTSAE();
-	            	out.writeObject(msg);
-	            }
-	            synchronized (serverData) {
-                    for (MessageOperation op : listOperations) {
-                        if (op.getOperation().getType() == OperationType.ADD) {
-                            serverData.execOperation( (AddOperation) op.getOperation() );
-                        } else {
-                        	  serverData.execOperation( (RemoveOperation) op.getOperation());
-                        }
+
+                // send to originator: local's summary and ack
+                msg = new MessageAErequest(localSummary, localAck);
+                out.writeObject(msg);
+
+                // receive operations
+                msg = (Message) in.readObject();
+                while (msg.type() == MsgType.OPERATION) {
+                    Operation op = ((MessageOperation) msg).getOperation();
+                    if(op.getType()== OperationType.ADD){
+                        Recipe rcpe = ((AddOperation) op).getRecipe();
+                        serverData.getRecipes().add(rcpe);
                     }
-					
-					//Update summary
-					serverData.getSummary().updateMax(msgAe.getSummary());
-                    serverData.getAck().updateMax(msgAe.getAck());
+                    serverData.getLog().add(op);
+                    msg = (Message) in.readObject();
+                }
+
+                // receive message to inform about the ending of the TSAE session
+                if (msg.type() == MsgType.END_TSAE) {
+                    serverData.getSummary().updateMax(originatorSummary);
+                    serverData.getAck().updateMax(((MessageAErequest) msg).getAck());
                     serverData.getLog().purgeLog(serverData.getAck());
-}
-				
-			}
-			socket.close();		
-		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
-			lsim.log(Level.FATAL, "[TSAESessionPartnerSide] [session: "+current_session_number+"]" + e.getMessage());
-			e.printStackTrace();
+                    msg = new MessageEndTSAE();
+                    out.writeObject(msg);
+                }
+
+            }
+            socket.close();
+        } catch (ClassNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
             System.exit(1);
-		}catch (IOException e) {
-	    }
-		
-		lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] End TSAE session");
+        } catch (IOException e) {
+            //System.out.println("Sesion desconectada");
+		}
 	}
 }

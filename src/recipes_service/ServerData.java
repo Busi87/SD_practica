@@ -46,9 +46,6 @@ import recipes_service.tsae.sessions.TSAESessionOriginatorSide;
  *
  */
 public class ServerData {
-	// Needed for the logging system sgeag@2017
-	private transient LSimWorker lsim = LSimFactory.getWorkerInstance();
-	
 	// groupId
 	private String groupId;
 	
@@ -159,17 +156,6 @@ public class ServerData {
 		System.err.println("Error: removeRecipe method (recipesService.serverData) not yet implemented");
 	}
 	
-	public synchronized void execOperation(AddOperation addOp) {
-        if (this.log.add(addOp)) {
-            this.recipes.add(addOp.getRecipe());
-        }
-    }
-
-	public synchronized void execOperation(RemoveOperation removeOp) {
-	    if (this.log.add(removeOp)) {
-	        this.recipes.remove(removeOp.getRecipeTitle());
-	    }
-	}
 
 	// ****************************************************************************
 	// *** operations to get the TSAE data structures. Used to send to evaluation

@@ -39,6 +39,6 @@ public class MessageEndTSAE extends Message{
 
 	@Override
 	public String toString() {
-		return "MessageEndTSAE [session: "+getSessionNumber()+"]";
+		return "MessageEndTSAE []";
 	}
 }
