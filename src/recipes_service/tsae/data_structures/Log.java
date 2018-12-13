@@ -22,11 +22,14 @@ package recipes_service.tsae.data_structures;
 
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Map;
+import java.util.Set;
 import java.util.Vector;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -45,7 +48,8 @@ import recipes_service.data.Operation;
  */
 public class Log implements Serializable{
 	// Needed for the logging system sgeag@2017
-	private transient LSimWorker lsim = LSimFactory.getWorkerInstance();
+	
+	//private transient LSimWorker lsim = LSimFactory.getWorkerInstance();
 
 	private static final long serialVersionUID = -4864990265268259700L;
 	/**
@@ -74,45 +78,99 @@ public class Log implements Serializable{
 	 * @return true if op is inserted, false otherwise.
 	 */
 	public synchronized boolean add(Operation op){
-		lsim.log(Level.TRACE, "Inserting into Log the operation: "+op);
+		//lsim.log(Level.TRACE, "Inserting into Log the operation: "+op);
 		
-		//Obtain the client access
-		String client_access = op.getTimestamp().getHostid();
-		//And extract the last operation from client
-		List<Operation> allClientOperations = this.log.get(client_access);
-		
-		//System.out.println(allClientOperations.size());
-		Timestamp lastClientTimestamp=null;
-		//I get the last timestamp of the last operation of client
-		if( allClientOperations.isEmpty()== false || allClientOperations!= null){
-			if(allClientOperations.size()>0) {
-				lastClientTimestamp = allClientOperations.get(allClientOperations.size()-1).getTimestamp();
-			}else {
-				this.log.get(client_access).add(op);
-				return true;
-			}
-		}
-		
-		
-		//Now  I do de comparation and the add action and return true o false
-		//First controll of theres no insert
-		/*if(allClientOperations.size()==0){
-			this.log.get(client_access).add(op);
-			return true;
-		}*/
-		
-		if(lastClientTimestamp == null && (op.getTimestamp().compare(lastClientTimestamp)) == 0 ){
-			this.log.get(client_access).add(op);
-			return true;
-		}
-		
-		if(lastClientTimestamp != null && (op.getTimestamp().compare(lastClientTimestamp)) == 1 ){
-			this.log.get(client_access).add(op);
-			return true;
-		}
+		//PURGELOG WORKS
+		/*
+		String hostId = op.getTimestamp().getHostid();
+        Timestamp lastTimestamp = this.getLastTimestamp(hostId);
+        long timestampDifference = op.getTimestamp().compare(lastTimestamp);
 
-		// return generated automatically. Remove it when implementing your solution 
-		return false;
+      
+        
+        if ((lastTimestamp == null && timestampDifference == 0)
+                || (lastTimestamp != null && timestampDifference == 1)) {
+        	 System.out.println("Entra en true 1");
+            this.log.get(hostId).add(op);
+            return true;
+        } else  {
+            return false;
+        }*/
+
+		
+		
+	    //Codigo mezclado -------------------------------
+		/*
+		String hostId = op.getTimestamp().getHostid();
+        Timestamp lastTimestamp = this.getLastTimestamp(hostId);
+        long timestampDifference = op.getTimestamp().compare(lastTimestamp);
+
+        
+        List<Operation> listOp = log.get(hostId);
+        
+        Operation lastOp = null;
+        
+        if( !listOp.isEmpty() ) {
+            lastOp = listOp.get(listOp.size()-1);
+        }
+        
+   
+        
+        if ((lastTimestamp == null && timestampDifference == 0)   || (lastTimestamp != null && timestampDifference == 1)) {
+            
+            
+            if( lastOp == null || lastOp.getTimestamp() == null ) {
+                log.get(hostId).add(op);
+                 System.out.println("Entra en true 1");
+                 return true;
+            } 
+            //this.log.get(hostId).add(op);
+            System.out.println("Entra en true 2");
+            return true;
+        } else  {
+        	
+        	System.out.println("Entra en false");
+            return false;
+        }
+		
+		*/
+		
+		
+		//-------------------------------------
+		
+		// INICIAL      <------
+		
+        String user = op.getTimestamp().getHostid();
+        
+        //>... codigo nuevo
+        Timestamp lastTimestamp = this.getLastTimestamp(user);
+        long timestampDifference = op.getTimestamp().compare(lastTimestamp);
+        //<...
+        
+  
+        List<Operation> listOp = log.get(user);
+        
+        Operation lastOp = null;
+        
+        if( !listOp.isEmpty() )
+            lastOp = listOp.get(listOp.size()-1);
+        
+        if( lastOp == null || lastOp.getTimestamp() == null ) {
+            log.get(user).add(op);
+            return true;
+        } else if( op.getTimestamp().compare(lastOp.getTimestamp()) == 1 ) {
+            log.get(user).add(op);
+            return true;
+            //lineas debajo son nuevas, no son del original
+        }else if((lastTimestamp == null && timestampDifference == 0)
+                || (lastTimestamp != null && timestampDifference == 1)) {
+        	this.log.get(user).add(op);
+            return true;
+        }
+        //<...
+        return false;
+       
+        	
 	}
 	
 	/**
@@ -124,21 +182,55 @@ public class Log implements Serializable{
 	 * @return list of operations
 	 */
 	public synchronized List<Operation> listNewer(TimestampVector sum){
-		//METODO COMPLETAMENTE NUEVO Y A MODIFICAR
-		List<Operation> tempList = new ArrayList<>();
-
-		for (String node : this.log.keySet()) {
+		
+		List<Operation> missingList = new Vector();
+        for (String node : this.log.keySet()) {
             List<Operation> operations = this.log.get(node);
-            Timestamp timestampListComparation = sum.getLast(node);
-            
+            Timestamp timestampToCompare = sum.getLast(node);
+
+
             for (Operation op : operations) {
-                if (op.getTimestamp().compare(timestampListComparation) > 0) {
-                	tempList.add(op);
+                if (op.getTimestamp().compare(timestampToCompare) > 0) {
+                    missingList.add(op);
                 }
             }
-		}
-		 
-		return tempList;
+        }
+        return missingList;
+   
+			
+		
+		
+		//METODO COMPLETAMENTE NUEVO Y A MODIFICAR
+		
+		
+		/*
+        List<Operation> ops = new ArrayList<Operation>();
+        
+        //get all the keys = hosts from hashmap
+        Set<String> hosts = log.keySet();
+        
+        for (String host : hosts) {
+            //t = last timestamp for index host in sumVector
+            Timestamp tRef = sum.getTimestampVector().get(host); 
+            //get the list of ops from a host 
+            List<Operation> logOp = log.get(host);
+            
+            //iterate over list of operations from host(i) and compare if timestamp is new than tRef.-> add to list
+            for (int i = 0; i < logOp.size(); i++) {
+                if (logOp.get(i).getTimestamp().compare(tRef) > 0){
+                    ops.add(logOp.get(i));
+                }
+            }  
+            
+            //Sort of the ops list 
+            Collections.sort(ops, new Comparator<Operation>() {
+                @Override
+                public int compare(Operation o1, Operation o2) {
+                    return (int) o1.getTimestamp().compare(o2.getTimestamp());
+                }
+            });
+        }
+        return ops;*/
 		
 	}
 	
@@ -150,8 +242,8 @@ public class Log implements Serializable{
 	 * @param ack: ackSummary.
 	 */
 	public synchronized void purgeLog(TimestampMatrix ack){
-		//METODO COMPLETAMENTE NUEVO Y A MODIFICAR
-		TimestampVector minTSV=ack.minTimestampVector();
+		
+		/*TimestampVector minTSV=ack.minTimestampVector();
         for(Map.Entry<String, List<Operation>> entry : log.entrySet()){
             String implicated=entry.getKey();
             List <Operation> ops=entry.getValue();
@@ -163,7 +255,65 @@ public class Log implements Serializable{
                 }
             }
             
+        }*/
+	
+  
+		//METODO COMPLETAMENTE NUEVO Y A MODIFICAR
+		 /**
+         * Create a minTimestampVector from the matrix. Only logs older than this will be purged later.
+         * minTimestampVector guarantees that all clients have received the information up to that timestamp.
+         */
+		/*
+        TimestampVector minTimestampVector = ack.minTimestampVector();
+        
+
+        for (Map.Entry<String, List<Operation>> entry : log.entrySet()) {
+            String participant = entry.getKey();
+            List<Operation> operations = entry.getValue();
+            Timestamp lastTimestamp = minTimestampVector.getLast(participant);
+ 
+            if (lastTimestamp == null) {
+                continue;
+            }
+            for (int i = operations.size() - 1; i >= 0; i--) {
+                Operation op = operations.get(i);
+
+                if (op.getTimestamp().compare(lastTimestamp) < 0) {
+                    operations.remove(i);
+                }
+            }
+        }*/
+		 
+		// ------------------------------
+		
+		
+		
+		TimestampVector minAck = ack.minTimestampVector();
+	      
+        //get all the keys = hosts from hashmap
+        Set<String> hosts = log.keySet();
+        
+        for (String host : hosts) {
+            //get the list of ops from a host 
+            List<Operation> logOp = log.get(host);
+            //get the last timestamp of the timestampVector of each host
+            Timestamp lastTimestamp = minAck.getLast(host);
+            
+            // If the lastTimestamp is not null, proceed to iterate over its messages
+            // and compare each message's timestamp with the lastTimestamp. 
+            // If the message's timestamp it's lower than the lasTimestamp then 
+            // the operation it is removed from the log. 
+            if (lastTimestamp != null){
+                for (int i = 0; i < logOp.size(); i++) {
+                    Operation op = logOp.get(i);
+                    if (!(op.getTimestamp().compare(lastTimestamp) > 0)){
+                        logOp.remove(i);
+                    }
+                    
+                }
+            }        
         }
+
 	}
 
 	/**
@@ -172,11 +322,15 @@ public class Log implements Serializable{
 	@Override
 	public synchronized boolean equals(Object obj) {
 		
-		if (this == obj)
+		//System.out.println("Entra equal LOG: ***** "+obj.toString());
+		
+		if (this == obj) {
             return true;
+		}
         
-        if (obj == null)
+        if(obj == null){
             return false;
+        }
         
         if (getClass() != obj.getClass())
             return false;
@@ -236,4 +390,15 @@ public class Log implements Serializable{
 		
 		return name;
 	}
+	
+	 private Timestamp getLastTimestamp(String hostId) {
+	        List<Operation> operations = this.log.get(hostId);
+
+	        if (operations == null || operations.isEmpty()) {
+	            return null;
+	        } else {
+	            return operations.get(operations.size() - 1).getTimestamp();
+	        }
+	    }
+
 }

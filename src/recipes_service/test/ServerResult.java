@@ -89,32 +89,32 @@ public class ServerResult implements Serializable{
 			if (other.summary != null)
 				return false;
 		} else if (!summary.equals(other.summary)){
-//			System.out.println("ServerResult --- equals: summaries are not equals");
-//			System.out.println("ServerResult --- ! equals -- summary: "+summary);
-//			System.out.println("ServerResult --- ! equals -- summary2: "+other.summary);
+			System.out.println("111ServerResult --- equals: summaries are not equals");
+			System.out.println("ServerResult --- ! equals -- summary: "+summary);
+			System.out.println("ServerResult --- ! equals -- summary2: "+other.summary);
 			return false;
 		}
 		if (log == null) {
 			if (other.log != null)
 				return false;
 		} else if (!log.equals(other.log)){
-//			System.out.println("ServerResult --- equals: logs are not equals");
+			System.out.println("ServerResult --- equals: logs are not equals");
 			return false;
 		}
 		if (ack == null) {
 			if (other.ack != null)
 				return false;
 		} else if (!ack.equals(other.ack)){
-//			System.out.println("ServerResult --- equals: acks are not equals");
-//			System.out.println("ServerResult --- ! equals -- ack: "+ack);
-//			System.out.println("ServerResult --- ! equals -- ack2: "+other.ack);
+			System.out.println("2222ServerResult --- equals: acks are not equals");
+			System.out.println("ServerResult --- ! equals -- ack: "+ack);
+			System.out.println("ServerResult --- ! equals -- ack2: "+other.ack);
 			return false;
 		}
 		if (recipes == null) {
 			if (other.recipes != null)
 				return false;
 		} else if (!recipes.equals(other.recipes)){
-//			System.out.println("ServerResult --- equals: recipes are not equals");
+			System.out.println("333ServerResult --- equals: recipes are not equals");
 			return false;
 		}
 		return true;
@@ -132,23 +132,23 @@ public class ServerResult implements Serializable{
 			if (other.summary != null)
 				return false;
 		} else if (!summary.equals(other.summary)){
-//			System.out.println("ServerResult --- equals: summaries are not equals");
-//			System.out.println("ServerResult --- ! equals -- summary: "+summary);
-//			System.out.println("ServerResult --- ! equals -- summary2: "+other.summary);
+			System.out.println("4444ServerResult --- equals: summaries are not equals");
+			System.out.println("ServerResult --- ! equals -- summary: "+summary);
+			System.out.println("ServerResult --- ! equals -- summary2: "+other.summary);
 			return false;
 		}
 		if (log == null) {
 			if (other.log != null)
 				return false;
 		} else if (!log.equals(other.log)){
-//			System.out.println("ServerResult --- equals: logs are not equals");
+			System.out.println("5555ServerResult --- equals: logs are not equals");
 			return false;
 		}
 		if (recipes == null) {
 			if (other.recipes != null)
 				return false;
 		} else if (!recipes.equals(other.recipes)){
-//			System.out.println("ServerResult --- equals: recipes are not equals");
+			System.out.println("6666ServerResult --- equals: recipes are not equals");
 			return false;
 		}
 		return true;

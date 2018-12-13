@@ -23,7 +23,6 @@ package recipes_service.tsae.sessions;
 
 import java.io.IOException;
 import java.net.Socket;
-import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Vector;
@@ -40,7 +39,6 @@ import recipes_service.data.AddOperation;
 import recipes_service.data.Operation;
 import recipes_service.data.OperationType;
 import recipes_service.data.Recipe;
-import recipes_service.data.RemoveOperation;
 import recipes_service.tsae.data_structures.Log;
 import recipes_service.tsae.data_structures.TimestampMatrix;
 import recipes_service.tsae.data_structures.TimestampVector;
@@ -57,7 +55,7 @@ import edu.uoc.dpcs.lsim.logger.LoggerManager.Level;
  */
 public class TSAESessionPartnerSide extends Thread{
 	// Needed for the logging system sgeag@2017
-	private LSimWorker lsim = LSimFactory.getWorkerInstance();
+	//private LSimWorker lsim = LSimFactory.getWorkerInstance();
 	
 	private Socket socket = null;
 	private ServerData serverData = null;
@@ -82,8 +80,8 @@ public class TSAESessionPartnerSide extends Thread{
 			// receive originator's summary and ack
 			msg = (Message) in.readObject();
 			current_session_number = msg.getSessionNumber();
-			lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] TSAE session");
-			lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
+			//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] TSAE session");
+			//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
 			if (msg.type() == MsgType.AE_REQUEST){
 				
 				// > ...
@@ -104,7 +102,7 @@ public class TSAESessionPartnerSide extends Thread{
 					// ...
 					msg.setSessionNumber(current_session_number);
 					out.writeObject(msg);
-					lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
+					//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
 
 		
 				// send to originator: local's summary and ack
@@ -113,7 +111,7 @@ public class TSAESessionPartnerSide extends Thread{
 				msg = new MessageAErequest(localSummary, localAck);
 				msg.setSessionNumber(current_session_number);
 	 	        out.writeObject(msg);
-				lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
+				//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
 				
 				//>...
 				synchronized (serverData) {
@@ -129,47 +127,56 @@ public class TSAESessionPartnerSide extends Thread{
 				out.writeObject(msg);
 				//<....
 				
-				List <MessageOperation> listOperations = new ArrayList();
+				
 	            // receive operations
 				msg = (Message) in.readObject();
-				lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
+				//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
 				while (msg.type() == MsgType.OPERATION){
 					
-					listOperations.add((MessageOperation) msg); 
-	            	msg = (Message) in.readObject();
-	            }
-				
-			// receive message to inform about the ending of the TSAE session
-	            if (msg.type() == MsgType.END_TSAE){
-	            	// send and "end of TSAE session" 
-	            	msg = new MessageEndTSAE();
-	            	out.writeObject(msg);
-	            }
-	            synchronized (serverData) {
-                    for (MessageOperation op : listOperations) {
-                        if (op.getOperation().getType() == OperationType.ADD) {
-                            serverData.execOperation( (AddOperation) op.getOperation() );
-                        } else {
-                        	  serverData.execOperation( (RemoveOperation) op.getOperation());
-                        }
-                    }
 					
-					//Update summary
-					serverData.getSummary().updateMax(msgAe.getSummary());
-                    serverData.getAck().updateMax(msgAe.getAck());
+					// > ...
+					Operation op = ((MessageOperation) msg).getOperation();
+                    if(op.getType()== OperationType.ADD){
+                        Recipe rcpe = ((AddOperation) op).getRecipe();
+                        serverData.getRecipes().add(rcpe);
+                    }
+                    serverData.getLog().add(op);
+                    msg = (Message) in.readObject();
+					//< ...
+                    
+                    
+					msg = (Message) in.readObject();
+					//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] received message: "+ msg);
+				}
+				
+				// receive message to inform about the ending of the TSAE session
+				if (msg.type() == MsgType.END_TSAE){
+					
+					
+					// >...
+					serverData.getSummary().updateMax(originatorSummary);
+                    serverData.getAck().updateMax(((MessageAErequest) msg).getAck());
                     serverData.getLog().purgeLog(serverData.getAck());
-}
+					// <...
+                    
+                    
+					// send and "end of TSAE session" message
+					msg = new MessageEndTSAE();
+					msg.setSessionNumber(current_session_number);
+		            out.writeObject(msg);					
+					//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] sent message: "+ msg);
+				}
 				
 			}
 			socket.close();		
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block
-			lsim.log(Level.FATAL, "[TSAESessionPartnerSide] [session: "+current_session_number+"]" + e.getMessage());
+			//lsim.log(Level.FATAL, "[TSAESessionPartnerSide] [session: "+current_session_number+"]" + e.getMessage());
 			e.printStackTrace();
             System.exit(1);
 		}catch (IOException e) {
 	    }
 		
-		lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] End TSAE session");
+		//lsim.log(Level.TRACE, "[TSAESessionPartnerSide] [session: "+current_session_number+"] End TSAE session");
 	}
 }

@@ -39,7 +39,7 @@ import edu.uoc.dpcs.lsim.logger.LoggerManager.Level;
  */
 public class TimestampVector implements Serializable{
 	// Needed for the logging system sgeag@2017
-	private transient LSimWorker lsim = LSimFactory.getWorkerInstance();
+	//private transient LSimWorker lsim = LSimFactory.getWorkerInstance();
 
 	private static final long serialVersionUID = -765026247959198886L;
 	/**
@@ -63,7 +63,7 @@ public class TimestampVector implements Serializable{
 	 * @param timestamp
 	 */
 	public synchronized void updateTimestamp(Timestamp timestamp){
-		lsim.log(Level.TRACE, "Updating the TimestampVectorInserting with the timestamp: "+timestamp);
+		//lsim.log(Level.TRACE, "Updating the TimestampVectorInserting with the timestamp: "+timestamp);
 		
 		//updating client info
 		if (timestamp != null) {
@@ -140,8 +140,13 @@ public class TimestampVector implements Serializable{
 	 */
 	public synchronized boolean equals(Object obj){
 	
-       
-		
+       System.out.println("Entra equal TIMESTAMPVECTOR: **** "+obj.toString());
+       try {
+			this.wait(1000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		//If is a null object or the class don't match between objects
 				if (obj == null || this.getClass() != obj.getClass() ){
 					return false;
@@ -153,8 +158,23 @@ public class TimestampVector implements Serializable{
 				}
 				//Compare de HashMap list
 				TimestampVector tempVector = (TimestampVector) obj;
+				
+				/*System.out.println("SALE equal TIMESTAMPVECTOR: **** "+obj.toString());
+				System.out.println("COMPARA LOS DOS RESULTADOS A VER SI ES CIERTO: ");
+				System.out.println("ESTE ES EL PRIMERO"+ tempVector);
+				System.out.println("ESTE ES timestamp 1:"+ tempVector.timestampVector);
+				System.out.println("ESTE ES EL SEGUNDO"+ this);
+				System.out.println("ESTE ES timestamp 2:"+ this.timestampVector);*/
+				if(this.timestampVector.equals(tempVector.timestampVector)) {
+					//System.out.println(" -- ES TRUE !! --");
+				}else {
+					System.out.println("ENTRAAA");
+				}
+				
+				
 				//If there's and error/null of the hashmap table
 				if(this.timestampVector == null || tempVector.timestampVector == null){
+					System.out.println("ENTRAAA222");
 					return false;
 				}
 				
@@ -180,4 +200,9 @@ public class TimestampVector implements Serializable{
 		}
 		return all;
 	}
+	
+	public ConcurrentHashMap<String, Timestamp> getTimestampVector() {
+        return timestampVector;
+    }
+
 }
