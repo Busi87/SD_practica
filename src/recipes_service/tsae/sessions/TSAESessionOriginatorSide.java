@@ -113,18 +113,13 @@ public class TSAESessionOriginatorSide extends TimerTask{
 			// > ... CODIGO NUEVO
 			
 		synchronized (serverData) {
-			System.out.println("ENTRA SINCRONIZED");
 			localSummary = serverData.getSummary().clone();
 			String serverDataId=serverData.getId();
 			serverData.getAck().update(serverDataId, localSummary);
 			localAck=serverData.getAck().clone();
 			
 		}
-			
-		//< ... CODIGO NUEVO
 		
-		
-		System.out.println("ENVIA MENSAJES");
 			// Send to partner: local's summary and ack
 			Message	msg = new MessageAErequest(localSummary, localAck);
 			
@@ -185,10 +180,8 @@ public class TSAESessionOriginatorSide extends TimerTask{
 				//System.out.println("FORA del END_TSAE");
 				if (msg.type() == MsgType.END_TSAE){
 					// > ...
-					System.out.println("Entra END_TSAE");
 
 					synchronized (serverData) {
-						System.out.println("ENTRA SINCRONIZED");
 						localSummary = serverData.getSummary().clone();
 						String serverDataId=serverData.getId();
 						serverData.getAck().update(serverDataId, localSummary);

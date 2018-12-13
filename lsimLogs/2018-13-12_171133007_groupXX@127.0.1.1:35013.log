@@ -1,0 +1,2220 @@
+13-12-2018 17:11:33:007 groupXX@127.0.1.1:35013 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35013,groupXX@127.0.1.1:35013]
+13-12-2018 17:11:34:306 groupXX@127.0.1.1:35013 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002, groupXX@127.0.1.1:35003, groupXX@127.0.1.1:35004, groupXX@127.0.1.1:35005, groupXX@127.0.1.1:35006, groupXX@127.0.1.1:35007, groupXX@127.0.1.1:35008, groupXX@127.0.1.1:35009, groupXX@127.0.1.1:35010, groupXX@127.0.1.1:35011, groupXX@127.0.1.1:35012, groupXX@127.0.1.1:35013, groupXX@127.0.1.1:35014]
+13-12-2018 17:12:03:499 groupXX@127.0.1.1:35013 [INFO] : [groupXX@127.0.1.1:35013] ADD recipe: ehxeslxh
+13-12-2018 17:12:42:952 groupXX@127.0.1.1:35013 [INFO] : [groupXX@127.0.1.1:35013] ADD recipe: xjhoavsi
+13-12-2018 17:14:22:945 groupXX@127.0.1.1:35013 [INFO] : [groupXX@127.0.1.1:35013] ADD recipe: rqtqnnfn
+13-12-2018 17:15:02:959 groupXX@127.0.1.1:35013 [INFO] : [groupXX@127.0.1.1:35013] ADD recipe: nuxwinem
+13-12-2018 17:16:02:948 groupXX@127.0.1.1:35013 [INFO] : [groupXX@127.0.1.1:35013] ADD recipe: mprnvmxj
+13-12-2018 17:16:22:946 groupXX@127.0.1.1:35013 [INFO] : [groupXX@127.0.1.1:35013] ADD recipe: usdvjumw
+13-12-2018 17:16:39:579 groupXX@127.0.1.1:35013 [INFO] : Server groupXX@127.0.1.1:35013 finishes Activity Simulation
+13-12-2018 17:16:39:609 groupXX@127.0.1.1:35013 [DEBUG] : ##### [iteration: 1/36] sending partial result
+13-12-2018 17:16:39:612 groupXX@127.0.1.1:35013 [TRACE] : {adqgrlxu=[adqgrlxu, Content--adqgrlxu, groupXX], aycnkueo=[aycnkueo, Content--aycnkueo, groupXX], bcrhaxlg=[bcrhaxlg, Content--bcrhaxlg, groupXX], braclnyv=[braclnyv, Content--braclnyv, groupXX], cmvpoptp=[cmvpoptp, Content--cmvpoptp, groupXX], dbbcbmqk=[dbbcbmqk, Content--dbbcbmqk, groupXX], dnjcthni=[dnjcthni, Content--dnjcthni, groupXX], dquhnyhk=[dquhnyhk, Content--dquhnyhk, groupXX], ecumloym=[ecumloym, Content--ecumloym, groupXX], ehxeslxh=[ehxeslxh, Content--ehxeslxh, groupXX], euebrlcy=[euebrlcy, Content--euebrlcy, groupXX], exiauapb=[exiauapb, Content--exiauapb, groupXX], fajvbpvd=[fajvbpvd, Content--fajvbpvd, groupXX], fwuufyvn=[fwuufyvn, Content--fwuufyvn, groupXX], ikhhvsla=[ikhhvsla, Content--ikhhvsla, groupXX], iphykxse=[iphykxse, Content--iphykxse, groupXX], irabgyqi=[irabgyqi, Content--irabgyqi, groupXX], jbpqdaps=[jbpqdaps, Content--jbpqdaps, groupXX], jqrhhdxf=[jqrhhdxf, Content--jqrhhdxf, groupXX], jvmcyjvt=[jvmcyjvt, Content--jvmcyjvt, groupXX], kdfibbhq=[kdfibbhq, Content--kdfibbhq, groupXX], kgbplgbf=[kgbplgbf, Content--kgbplgbf, groupXX], kupfmksb=[kupfmksb, Content--kupfmksb, groupXX], lpvuygps=[lpvuygps, Content--lpvuygps, groupXX], lukmckus=[lukmckus, Content--lukmckus, groupXX], mgrrtflv=[mgrrtflv, Content--mgrrtflv, groupXX], mhfeqlyr=[mhfeqlyr, Content--mhfeqlyr, groupXX], mprnvmxj=[mprnvmxj, Content--mprnvmxj, groupXX], mufrntca=[mufrntca, Content--mufrntca, groupXX], muhdttcf=[muhdttcf, Content--muhdttcf, groupXX], mvfrfjur=[mvfrfjur, Content--mvfrfjur, groupXX], nuxwinem=[nuxwinem, Content--nuxwinem, groupXX], obuacvst=[obuacvst, Content--obuacvst, groupXX], ollwmdca=[ollwmdca, Content--ollwmdca, groupXX], onmtrifq=[onmtrifq, Content--onmtrifq, groupXX], ooydvocx=[ooydvocx, Content--ooydvocx, groupXX], patwswcs=[patwswcs, Content--patwswcs, groupXX], pknfiswi=[pknfiswi, Content--pknfiswi, groupXX], ptqdskxl=[ptqdskxl, Content--ptqdskxl, groupXX], pujkltco=[pujkltco, Content--pujkltco, groupXX], qdtbqndf=[qdtbqndf, Content--qdtbqndf, groupXX], qvkalpav=[qvkalpav, Content--qvkalpav, groupXX], rbesgqqc=[rbesgqqc, Content--rbesgqqc, groupXX], rgmfvemx=[rgmfvemx, Content--rgmfvemx, groupXX], rqtqnnfn=[rqtqnnfn, Content--rqtqnnfn, groupXX], topvhhtn=[topvhhtn, Content--topvhhtn, groupXX], tuywgvdh=[tuywgvdh, Content--tuywgvdh, groupXX], ubxfay^t=[ubxfay^t, Content--ubxfay^t, groupXX], ufggofqq=[ufggofqq, Content--ufggofqq, groupXX], usdvjumw=[usdvjumw, Content--usdvjumw, groupXX], wkgfgtob=[wkgfgtob, Content--wkgfgtob, groupXX], xdgmtmem=[xdgmtmem, Content--xdgmtmem, groupXX], xjhoavsi=[xjhoavsi, Content--xjhoavsi, groupXX], yennxole=[yennxole, Content--yennxole, groupXX], yhcsjael=[yhcsjael, Content--yhcsjael, groupXX]}
+13-12-2018 17:16:39:630 groupXX@127.0.1.1:35013 [TRACE] : AddOperation [recipe=[mufrntca, Content--mufrntca, groupXX], timestamp=groupXX@127.0.1.1:35009:   0]
+AddOperation [recipe=[patwswcs, Content--patwswcs, groupXX], timestamp=groupXX@127.0.1.1:35009:   1]
+AddOperation [recipe=[ikhhvsla, Content--ikhhvsla, groupXX], timestamp=groupXX@127.0.1.1:35009:   2]
+AddOperation [recipe=[pknfiswi, Content--pknfiswi, groupXX], timestamp=groupXX@127.0.1.1:35009:   3]
+AddOperation [recipe=[mgrrtflv, Content--mgrrtflv, groupXX], timestamp=groupXX@127.0.1.1:35009:   4]
+AddOperation [recipe=[kdfibbhq, Content--kdfibbhq, groupXX], timestamp=groupXX@127.0.1.1:35009:   5]
+AddOperation [recipe=[wkgfgtob, Content--wkgfgtob, groupXX], timestamp=groupXX@127.0.1.1:35008:   0]
+AddOperation [recipe=[yhcsjael, Content--yhcsjael, groupXX], timestamp=groupXX@127.0.1.1:35008:   1]
+AddOperation [recipe=[ufggofqq, Content--ufggofqq, groupXX], timestamp=groupXX@127.0.1.1:35008:   2]
+AddOperation [recipe=[xdgmtmem, Content--xdgmtmem, groupXX], timestamp=groupXX@127.0.1.1:35008:   3]
+AddOperation [recipe=[braclnyv, Content--braclnyv, groupXX], timestamp=groupXX@127.0.1.1:35007:   0]
+AddOperation [recipe=[ollwmdca, Content--ollwmdca, groupXX], timestamp=groupXX@127.0.1.1:35007:   1]
+AddOperation [recipe=[rgmfvemx, Content--rgmfvemx, groupXX], timestamp=groupXX@127.0.1.1:35007:   2]
+AddOperation [recipe=[qdtbqndf, Content--qdtbqndf, groupXX], timestamp=groupXX@127.0.1.1:35006:   0]
+AddOperation [recipe=[qvkalpav, Content--qvkalpav, groupXX], timestamp=groupXX@127.0.1.1:35006:   1]
+AddOperation [recipe=[muhdttcf, Content--muhdttcf, groupXX], timestamp=groupXX@127.0.1.1:35005:   0]
+AddOperation [recipe=[lpvuygps, Content--lpvuygps, groupXX], timestamp=groupXX@127.0.1.1:35005:   1]
+AddOperation [recipe=[fwuufyvn, Content--fwuufyvn, groupXX], timestamp=groupXX@127.0.1.1:35005:   2]
+AddOperation [recipe=[mhfeqlyr, Content--mhfeqlyr, groupXX], timestamp=groupXX@127.0.1.1:35005:   3]
+AddOperation [recipe=[aycnkueo, Content--aycnkueo, groupXX], timestamp=groupXX@127.0.1.1:35005:   4]
+AddOperation [recipe=[ptqdskxl, Content--ptqdskxl, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+AddOperation [recipe=[ooydvocx, Content--ooydvocx, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[kupfmksb, Content--kupfmksb, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[dquhnyhk, Content--dquhnyhk, groupXX], timestamp=groupXX@127.0.1.1:35014:   0]
+AddOperation [recipe=[yennxole, Content--yennxole, groupXX], timestamp=groupXX@127.0.1.1:35014:   1]
+AddOperation [recipe=[adqgrlxu, Content--adqgrlxu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kgbplgbf, Content--kgbplgbf, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[exiauapb, Content--exiauapb, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[irabgyqi, Content--irabgyqi, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[jqrhhdxf, Content--jqrhhdxf, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[ehxeslxh, Content--ehxeslxh, groupXX], timestamp=groupXX@127.0.1.1:35013:   0]
+AddOperation [recipe=[xjhoavsi, Content--xjhoavsi, groupXX], timestamp=groupXX@127.0.1.1:35013:   1]
+AddOperation [recipe=[rqtqnnfn, Content--rqtqnnfn, groupXX], timestamp=groupXX@127.0.1.1:35013:   2]
+AddOperation [recipe=[nuxwinem, Content--nuxwinem, groupXX], timestamp=groupXX@127.0.1.1:35013:   3]
+AddOperation [recipe=[mprnvmxj, Content--mprnvmxj, groupXX], timestamp=groupXX@127.0.1.1:35013:   4]
+AddOperation [recipe=[usdvjumw, Content--usdvjumw, groupXX], timestamp=groupXX@127.0.1.1:35013:   5]
+AddOperation [recipe=[tuywgvdh, Content--tuywgvdh, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[onmtrifq, Content--onmtrifq, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[ubxfay^t, Content--ubxfay^t, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[rbesgqqc, Content--rbesgqqc, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[jbpqdaps, Content--jbpqdaps, groupXX], timestamp=groupXX@127.0.1.1:35012:   0]
+AddOperation [recipe=[cmvpoptp, Content--cmvpoptp, groupXX], timestamp=groupXX@127.0.1.1:35012:   1]
+AddOperation [recipe=[ecumloym, Content--ecumloym, groupXX], timestamp=groupXX@127.0.1.1:35012:   2]
+AddOperation [recipe=[pujkltco, Content--pujkltco, groupXX], timestamp=groupXX@127.0.1.1:35012:   3]
+AddOperation [recipe=[bcrhaxlg, Content--bcrhaxlg, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[obuacvst, Content--obuacvst, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[mvfrfjur, Content--mvfrfjur, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[iphykxse, Content--iphykxse, groupXX], timestamp=groupXX@127.0.1.1:35000:   3]
+AddOperation [recipe=[topvhhtn, Content--topvhhtn, groupXX], timestamp=groupXX@127.0.1.1:35011:   0]
+AddOperation [recipe=[fajvbpvd, Content--fajvbpvd, groupXX], timestamp=groupXX@127.0.1.1:35011:   1]
+AddOperation [recipe=[dbbcbmqk, Content--dbbcbmqk, groupXX], timestamp=groupXX@127.0.1.1:35011:   2]
+AddOperation [recipe=[dnjcthni, Content--dnjcthni, groupXX], timestamp=groupXX@127.0.1.1:35010:   0]
+AddOperation [recipe=[jvmcyjvt, Content--jvmcyjvt, groupXX], timestamp=groupXX@127.0.1.1:35010:   1]
+AddOperation [recipe=[euebrlcy, Content--euebrlcy, groupXX], timestamp=groupXX@127.0.1.1:35010:   2]
+AddOperation [recipe=[lukmckus, Content--lukmckus, groupXX], timestamp=groupXX@127.0.1.1:35010:   3]
+
+13-12-2018 17:16:39:630 groupXX@127.0.1.1:35013 [TRACE] : Summary: groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+13-12-2018 17:16:39:766 groupXX@127.0.1.1:35013 [TRACE] : Ack: groupXX@127.0.1.1:35009:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35008:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35007:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35006:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35005:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35014:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35013:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35012:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35011:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35010:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+
+13-12-2018 17:16:45:965 groupXX@127.0.1.1:35013 [DEBUG] : ##### [iteration: 2/36] sending partial result
+13-12-2018 17:16:45:966 groupXX@127.0.1.1:35013 [TRACE] : {adqgrlxu=[adqgrlxu, Content--adqgrlxu, groupXX], aycnkueo=[aycnkueo, Content--aycnkueo, groupXX], bcrhaxlg=[bcrhaxlg, Content--bcrhaxlg, groupXX], braclnyv=[braclnyv, Content--braclnyv, groupXX], cmvpoptp=[cmvpoptp, Content--cmvpoptp, groupXX], dbbcbmqk=[dbbcbmqk, Content--dbbcbmqk, groupXX], dnjcthni=[dnjcthni, Content--dnjcthni, groupXX], dquhnyhk=[dquhnyhk, Content--dquhnyhk, groupXX], ecumloym=[ecumloym, Content--ecumloym, groupXX], ehxeslxh=[ehxeslxh, Content--ehxeslxh, groupXX], euebrlcy=[euebrlcy, Content--euebrlcy, groupXX], exiauapb=[exiauapb, Content--exiauapb, groupXX], fajvbpvd=[fajvbpvd, Content--fajvbpvd, groupXX], fwuufyvn=[fwuufyvn, Content--fwuufyvn, groupXX], ikhhvsla=[ikhhvsla, Content--ikhhvsla, groupXX], iphykxse=[iphykxse, Content--iphykxse, groupXX], irabgyqi=[irabgyqi, Content--irabgyqi, groupXX], jbpqdaps=[jbpqdaps, Content--jbpqdaps, groupXX], jqrhhdxf=[jqrhhdxf, Content--jqrhhdxf, groupXX], jvmcyjvt=[jvmcyjvt, Content--jvmcyjvt, groupXX], kdfibbhq=[kdfibbhq, Content--kdfibbhq, groupXX], kgbplgbf=[kgbplgbf, Content--kgbplgbf, groupXX], kupfmksb=[kupfmksb, Content--kupfmksb, groupXX], lpvuygps=[lpvuygps, Content--lpvuygps, groupXX], lukmckus=[lukmckus, Content--lukmckus, groupXX], mgrrtflv=[mgrrtflv, Content--mgrrtflv, groupXX], mhfeqlyr=[mhfeqlyr, Content--mhfeqlyr, groupXX], mprnvmxj=[mprnvmxj, Content--mprnvmxj, groupXX], mufrntca=[mufrntca, Content--mufrntca, groupXX], muhdttcf=[muhdttcf, Content--muhdttcf, groupXX], mvfrfjur=[mvfrfjur, Content--mvfrfjur, groupXX], nuxwinem=[nuxwinem, Content--nuxwinem, groupXX], obuacvst=[obuacvst, Content--obuacvst, groupXX], ollwmdca=[ollwmdca, Content--ollwmdca, groupXX], onmtrifq=[onmtrifq, Content--onmtrifq, groupXX], ooydvocx=[ooydvocx, Content--ooydvocx, groupXX], patwswcs=[patwswcs, Content--patwswcs, groupXX], pknfiswi=[pknfiswi, Content--pknfiswi, groupXX], ptqdskxl=[ptqdskxl, Content--ptqdskxl, groupXX], pujkltco=[pujkltco, Content--pujkltco, groupXX], qdtbqndf=[qdtbqndf, Content--qdtbqndf, groupXX], qvkalpav=[qvkalpav, Content--qvkalpav, groupXX], rbesgqqc=[rbesgqqc, Content--rbesgqqc, groupXX], rgmfvemx=[rgmfvemx, Content--rgmfvemx, groupXX], rqtqnnfn=[rqtqnnfn, Content--rqtqnnfn, groupXX], topvhhtn=[topvhhtn, Content--topvhhtn, groupXX], tuywgvdh=[tuywgvdh, Content--tuywgvdh, groupXX], ubxfay^t=[ubxfay^t, Content--ubxfay^t, groupXX], ufggofqq=[ufggofqq, Content--ufggofqq, groupXX], usdvjumw=[usdvjumw, Content--usdvjumw, groupXX], vvxlotyp=[vvxlotyp, Content--vvxlotyp, groupXX], wkgfgtob=[wkgfgtob, Content--wkgfgtob, groupXX], xdgmtmem=[xdgmtmem, Content--xdgmtmem, groupXX], xjhoavsi=[xjhoavsi, Content--xjhoavsi, groupXX], yennxole=[yennxole, Content--yennxole, groupXX], yhcsjael=[yhcsjael, Content--yhcsjael, groupXX]}
+13-12-2018 17:16:45:967 groupXX@127.0.1.1:35013 [TRACE] : AddOperation [recipe=[mufrntca, Content--mufrntca, groupXX], timestamp=groupXX@127.0.1.1:35009:   0]
+AddOperation [recipe=[patwswcs, Content--patwswcs, groupXX], timestamp=groupXX@127.0.1.1:35009:   1]
+AddOperation [recipe=[ikhhvsla, Content--ikhhvsla, groupXX], timestamp=groupXX@127.0.1.1:35009:   2]
+AddOperation [recipe=[pknfiswi, Content--pknfiswi, groupXX], timestamp=groupXX@127.0.1.1:35009:   3]
+AddOperation [recipe=[mgrrtflv, Content--mgrrtflv, groupXX], timestamp=groupXX@127.0.1.1:35009:   4]
+AddOperation [recipe=[kdfibbhq, Content--kdfibbhq, groupXX], timestamp=groupXX@127.0.1.1:35009:   5]
+AddOperation [recipe=[wkgfgtob, Content--wkgfgtob, groupXX], timestamp=groupXX@127.0.1.1:35008:   0]
+AddOperation [recipe=[yhcsjael, Content--yhcsjael, groupXX], timestamp=groupXX@127.0.1.1:35008:   1]
+AddOperation [recipe=[ufggofqq, Content--ufggofqq, groupXX], timestamp=groupXX@127.0.1.1:35008:   2]
+AddOperation [recipe=[xdgmtmem, Content--xdgmtmem, groupXX], timestamp=groupXX@127.0.1.1:35008:   3]
+AddOperation [recipe=[braclnyv, Content--braclnyv, groupXX], timestamp=groupXX@127.0.1.1:35007:   0]
+AddOperation [recipe=[ollwmdca, Content--ollwmdca, groupXX], timestamp=groupXX@127.0.1.1:35007:   1]
+AddOperation [recipe=[rgmfvemx, Content--rgmfvemx, groupXX], timestamp=groupXX@127.0.1.1:35007:   2]
+AddOperation [recipe=[qdtbqndf, Content--qdtbqndf, groupXX], timestamp=groupXX@127.0.1.1:35006:   0]
+AddOperation [recipe=[qvkalpav, Content--qvkalpav, groupXX], timestamp=groupXX@127.0.1.1:35006:   1]
+AddOperation [recipe=[muhdttcf, Content--muhdttcf, groupXX], timestamp=groupXX@127.0.1.1:35005:   0]
+AddOperation [recipe=[lpvuygps, Content--lpvuygps, groupXX], timestamp=groupXX@127.0.1.1:35005:   1]
+AddOperation [recipe=[fwuufyvn, Content--fwuufyvn, groupXX], timestamp=groupXX@127.0.1.1:35005:   2]
+AddOperation [recipe=[mhfeqlyr, Content--mhfeqlyr, groupXX], timestamp=groupXX@127.0.1.1:35005:   3]
+AddOperation [recipe=[aycnkueo, Content--aycnkueo, groupXX], timestamp=groupXX@127.0.1.1:35005:   4]
+AddOperation [recipe=[ptqdskxl, Content--ptqdskxl, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+AddOperation [recipe=[ooydvocx, Content--ooydvocx, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[kupfmksb, Content--kupfmksb, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[dquhnyhk, Content--dquhnyhk, groupXX], timestamp=groupXX@127.0.1.1:35014:   0]
+AddOperation [recipe=[yennxole, Content--yennxole, groupXX], timestamp=groupXX@127.0.1.1:35014:   1]
+AddOperation [recipe=[adqgrlxu, Content--adqgrlxu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kgbplgbf, Content--kgbplgbf, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[exiauapb, Content--exiauapb, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[irabgyqi, Content--irabgyqi, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[jqrhhdxf, Content--jqrhhdxf, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[ehxeslxh, Content--ehxeslxh, groupXX], timestamp=groupXX@127.0.1.1:35013:   0]
+AddOperation [recipe=[xjhoavsi, Content--xjhoavsi, groupXX], timestamp=groupXX@127.0.1.1:35013:   1]
+AddOperation [recipe=[rqtqnnfn, Content--rqtqnnfn, groupXX], timestamp=groupXX@127.0.1.1:35013:   2]
+AddOperation [recipe=[nuxwinem, Content--nuxwinem, groupXX], timestamp=groupXX@127.0.1.1:35013:   3]
+AddOperation [recipe=[mprnvmxj, Content--mprnvmxj, groupXX], timestamp=groupXX@127.0.1.1:35013:   4]
+AddOperation [recipe=[usdvjumw, Content--usdvjumw, groupXX], timestamp=groupXX@127.0.1.1:35013:   5]
+AddOperation [recipe=[tuywgvdh, Content--tuywgvdh, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[onmtrifq, Content--onmtrifq, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[ubxfay^t, Content--ubxfay^t, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[rbesgqqc, Content--rbesgqqc, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[jbpqdaps, Content--jbpqdaps, groupXX], timestamp=groupXX@127.0.1.1:35012:   0]
+AddOperation [recipe=[cmvpoptp, Content--cmvpoptp, groupXX], timestamp=groupXX@127.0.1.1:35012:   1]
+AddOperation [recipe=[ecumloym, Content--ecumloym, groupXX], timestamp=groupXX@127.0.1.1:35012:   2]
+AddOperation [recipe=[pujkltco, Content--pujkltco, groupXX], timestamp=groupXX@127.0.1.1:35012:   3]
+AddOperation [recipe=[vvxlotyp, Content--vvxlotyp, groupXX], timestamp=groupXX@127.0.1.1:35012:   4]
+AddOperation [recipe=[bcrhaxlg, Content--bcrhaxlg, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[obuacvst, Content--obuacvst, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[mvfrfjur, Content--mvfrfjur, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[iphykxse, Content--iphykxse, groupXX], timestamp=groupXX@127.0.1.1:35000:   3]
+AddOperation [recipe=[topvhhtn, Content--topvhhtn, groupXX], timestamp=groupXX@127.0.1.1:35011:   0]
+AddOperation [recipe=[fajvbpvd, Content--fajvbpvd, groupXX], timestamp=groupXX@127.0.1.1:35011:   1]
+AddOperation [recipe=[dbbcbmqk, Content--dbbcbmqk, groupXX], timestamp=groupXX@127.0.1.1:35011:   2]
+AddOperation [recipe=[dnjcthni, Content--dnjcthni, groupXX], timestamp=groupXX@127.0.1.1:35010:   0]
+AddOperation [recipe=[jvmcyjvt, Content--jvmcyjvt, groupXX], timestamp=groupXX@127.0.1.1:35010:   1]
+AddOperation [recipe=[euebrlcy, Content--euebrlcy, groupXX], timestamp=groupXX@127.0.1.1:35010:   2]
+AddOperation [recipe=[lukmckus, Content--lukmckus, groupXX], timestamp=groupXX@127.0.1.1:35010:   3]
+
+13-12-2018 17:16:45:967 groupXX@127.0.1.1:35013 [TRACE] : Summary: groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+13-12-2018 17:16:45:971 groupXX@127.0.1.1:35013 [TRACE] : Ack: groupXX@127.0.1.1:35009:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35008:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35007:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35006:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35005:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35014:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35013:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35012:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35011:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35010:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+
+13-12-2018 17:16:51:596 groupXX@127.0.1.1:35013 [DEBUG] : ##### [iteration: 3/36] sending partial result
+13-12-2018 17:16:51:596 groupXX@127.0.1.1:35013 [TRACE] : {adqgrlxu=[adqgrlxu, Content--adqgrlxu, groupXX], aycnkueo=[aycnkueo, Content--aycnkueo, groupXX], bcrhaxlg=[bcrhaxlg, Content--bcrhaxlg, groupXX], braclnyv=[braclnyv, Content--braclnyv, groupXX], cmvpoptp=[cmvpoptp, Content--cmvpoptp, groupXX], dbbcbmqk=[dbbcbmqk, Content--dbbcbmqk, groupXX], dnjcthni=[dnjcthni, Content--dnjcthni, groupXX], dquhnyhk=[dquhnyhk, Content--dquhnyhk, groupXX], ecumloym=[ecumloym, Content--ecumloym, groupXX], ehxeslxh=[ehxeslxh, Content--ehxeslxh, groupXX], euebrlcy=[euebrlcy, Content--euebrlcy, groupXX], exiauapb=[exiauapb, Content--exiauapb, groupXX], fajvbpvd=[fajvbpvd, Content--fajvbpvd, groupXX], fwuufyvn=[fwuufyvn, Content--fwuufyvn, groupXX], ikhhvsla=[ikhhvsla, Content--ikhhvsla, groupXX], iphykxse=[iphykxse, Content--iphykxse, groupXX], irabgyqi=[irabgyqi, Content--irabgyqi, groupXX], jbpqdaps=[jbpqdaps, Content--jbpqdaps, groupXX], jqrhhdxf=[jqrhhdxf, Content--jqrhhdxf, groupXX], jvmcyjvt=[jvmcyjvt, Content--jvmcyjvt, groupXX], kdfibbhq=[kdfibbhq, Content--kdfibbhq, groupXX], kgbplgbf=[kgbplgbf, Content--kgbplgbf, groupXX], kupfmksb=[kupfmksb, Content--kupfmksb, groupXX], lpvuygps=[lpvuygps, Content--lpvuygps, groupXX], lukmckus=[lukmckus, Content--lukmckus, groupXX], mgrrtflv=[mgrrtflv, Content--mgrrtflv, groupXX], mhfeqlyr=[mhfeqlyr, Content--mhfeqlyr, groupXX], mprnvmxj=[mprnvmxj, Content--mprnvmxj, groupXX], mufrntca=[mufrntca, Content--mufrntca, groupXX], muhdttcf=[muhdttcf, Content--muhdttcf, groupXX], mvfrfjur=[mvfrfjur, Content--mvfrfjur, groupXX], nuxwinem=[nuxwinem, Content--nuxwinem, groupXX], obuacvst=[obuacvst, Content--obuacvst, groupXX], ollwmdca=[ollwmdca, Content--ollwmdca, groupXX], onmtrifq=[onmtrifq, Content--onmtrifq, groupXX], ooydvocx=[ooydvocx, Content--ooydvocx, groupXX], patwswcs=[patwswcs, Content--patwswcs, groupXX], pknfiswi=[pknfiswi, Content--pknfiswi, groupXX], ptqdskxl=[ptqdskxl, Content--ptqdskxl, groupXX], pujkltco=[pujkltco, Content--pujkltco, groupXX], qdtbqndf=[qdtbqndf, Content--qdtbqndf, groupXX], qvkalpav=[qvkalpav, Content--qvkalpav, groupXX], rbesgqqc=[rbesgqqc, Content--rbesgqqc, groupXX], rgmfvemx=[rgmfvemx, Content--rgmfvemx, groupXX], rqtqnnfn=[rqtqnnfn, Content--rqtqnnfn, groupXX], topvhhtn=[topvhhtn, Content--topvhhtn, groupXX], tuywgvdh=[tuywgvdh, Content--tuywgvdh, groupXX], ubxfay^t=[ubxfay^t, Content--ubxfay^t, groupXX], ufggofqq=[ufggofqq, Content--ufggofqq, groupXX], usdvjumw=[usdvjumw, Content--usdvjumw, groupXX], vvxlotyp=[vvxlotyp, Content--vvxlotyp, groupXX], wkgfgtob=[wkgfgtob, Content--wkgfgtob, groupXX], xdgmtmem=[xdgmtmem, Content--xdgmtmem, groupXX], xjhoavsi=[xjhoavsi, Content--xjhoavsi, groupXX], yennxole=[yennxole, Content--yennxole, groupXX], yhcsjael=[yhcsjael, Content--yhcsjael, groupXX]}
+13-12-2018 17:16:51:599 groupXX@127.0.1.1:35013 [TRACE] : AddOperation [recipe=[mufrntca, Content--mufrntca, groupXX], timestamp=groupXX@127.0.1.1:35009:   0]
+AddOperation [recipe=[patwswcs, Content--patwswcs, groupXX], timestamp=groupXX@127.0.1.1:35009:   1]
+AddOperation [recipe=[ikhhvsla, Content--ikhhvsla, groupXX], timestamp=groupXX@127.0.1.1:35009:   2]
+AddOperation [recipe=[pknfiswi, Content--pknfiswi, groupXX], timestamp=groupXX@127.0.1.1:35009:   3]
+AddOperation [recipe=[mgrrtflv, Content--mgrrtflv, groupXX], timestamp=groupXX@127.0.1.1:35009:   4]
+AddOperation [recipe=[kdfibbhq, Content--kdfibbhq, groupXX], timestamp=groupXX@127.0.1.1:35009:   5]
+AddOperation [recipe=[wkgfgtob, Content--wkgfgtob, groupXX], timestamp=groupXX@127.0.1.1:35008:   0]
+AddOperation [recipe=[yhcsjael, Content--yhcsjael, groupXX], timestamp=groupXX@127.0.1.1:35008:   1]
+AddOperation [recipe=[ufggofqq, Content--ufggofqq, groupXX], timestamp=groupXX@127.0.1.1:35008:   2]
+AddOperation [recipe=[xdgmtmem, Content--xdgmtmem, groupXX], timestamp=groupXX@127.0.1.1:35008:   3]
+AddOperation [recipe=[braclnyv, Content--braclnyv, groupXX], timestamp=groupXX@127.0.1.1:35007:   0]
+AddOperation [recipe=[ollwmdca, Content--ollwmdca, groupXX], timestamp=groupXX@127.0.1.1:35007:   1]
+AddOperation [recipe=[rgmfvemx, Content--rgmfvemx, groupXX], timestamp=groupXX@127.0.1.1:35007:   2]
+AddOperation [recipe=[qdtbqndf, Content--qdtbqndf, groupXX], timestamp=groupXX@127.0.1.1:35006:   0]
+AddOperation [recipe=[qvkalpav, Content--qvkalpav, groupXX], timestamp=groupXX@127.0.1.1:35006:   1]
+AddOperation [recipe=[muhdttcf, Content--muhdttcf, groupXX], timestamp=groupXX@127.0.1.1:35005:   0]
+AddOperation [recipe=[lpvuygps, Content--lpvuygps, groupXX], timestamp=groupXX@127.0.1.1:35005:   1]
+AddOperation [recipe=[fwuufyvn, Content--fwuufyvn, groupXX], timestamp=groupXX@127.0.1.1:35005:   2]
+AddOperation [recipe=[mhfeqlyr, Content--mhfeqlyr, groupXX], timestamp=groupXX@127.0.1.1:35005:   3]
+AddOperation [recipe=[aycnkueo, Content--aycnkueo, groupXX], timestamp=groupXX@127.0.1.1:35005:   4]
+AddOperation [recipe=[ptqdskxl, Content--ptqdskxl, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+AddOperation [recipe=[ooydvocx, Content--ooydvocx, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[kupfmksb, Content--kupfmksb, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[dquhnyhk, Content--dquhnyhk, groupXX], timestamp=groupXX@127.0.1.1:35014:   0]
+AddOperation [recipe=[yennxole, Content--yennxole, groupXX], timestamp=groupXX@127.0.1.1:35014:   1]
+AddOperation [recipe=[adqgrlxu, Content--adqgrlxu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kgbplgbf, Content--kgbplgbf, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[exiauapb, Content--exiauapb, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[irabgyqi, Content--irabgyqi, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[jqrhhdxf, Content--jqrhhdxf, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[ehxeslxh, Content--ehxeslxh, groupXX], timestamp=groupXX@127.0.1.1:35013:   0]
+AddOperation [recipe=[xjhoavsi, Content--xjhoavsi, groupXX], timestamp=groupXX@127.0.1.1:35013:   1]
+AddOperation [recipe=[rqtqnnfn, Content--rqtqnnfn, groupXX], timestamp=groupXX@127.0.1.1:35013:   2]
+AddOperation [recipe=[nuxwinem, Content--nuxwinem, groupXX], timestamp=groupXX@127.0.1.1:35013:   3]
+AddOperation [recipe=[mprnvmxj, Content--mprnvmxj, groupXX], timestamp=groupXX@127.0.1.1:35013:   4]
+AddOperation [recipe=[usdvjumw, Content--usdvjumw, groupXX], timestamp=groupXX@127.0.1.1:35013:   5]
+AddOperation [recipe=[tuywgvdh, Content--tuywgvdh, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[onmtrifq, Content--onmtrifq, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[ubxfay^t, Content--ubxfay^t, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[rbesgqqc, Content--rbesgqqc, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[jbpqdaps, Content--jbpqdaps, groupXX], timestamp=groupXX@127.0.1.1:35012:   0]
+AddOperation [recipe=[cmvpoptp, Content--cmvpoptp, groupXX], timestamp=groupXX@127.0.1.1:35012:   1]
+AddOperation [recipe=[ecumloym, Content--ecumloym, groupXX], timestamp=groupXX@127.0.1.1:35012:   2]
+AddOperation [recipe=[pujkltco, Content--pujkltco, groupXX], timestamp=groupXX@127.0.1.1:35012:   3]
+AddOperation [recipe=[vvxlotyp, Content--vvxlotyp, groupXX], timestamp=groupXX@127.0.1.1:35012:   4]
+AddOperation [recipe=[bcrhaxlg, Content--bcrhaxlg, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[obuacvst, Content--obuacvst, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[mvfrfjur, Content--mvfrfjur, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[iphykxse, Content--iphykxse, groupXX], timestamp=groupXX@127.0.1.1:35000:   3]
+AddOperation [recipe=[topvhhtn, Content--topvhhtn, groupXX], timestamp=groupXX@127.0.1.1:35011:   0]
+AddOperation [recipe=[fajvbpvd, Content--fajvbpvd, groupXX], timestamp=groupXX@127.0.1.1:35011:   1]
+AddOperation [recipe=[dbbcbmqk, Content--dbbcbmqk, groupXX], timestamp=groupXX@127.0.1.1:35011:   2]
+AddOperation [recipe=[dnjcthni, Content--dnjcthni, groupXX], timestamp=groupXX@127.0.1.1:35010:   0]
+AddOperation [recipe=[jvmcyjvt, Content--jvmcyjvt, groupXX], timestamp=groupXX@127.0.1.1:35010:   1]
+AddOperation [recipe=[euebrlcy, Content--euebrlcy, groupXX], timestamp=groupXX@127.0.1.1:35010:   2]
+AddOperation [recipe=[lukmckus, Content--lukmckus, groupXX], timestamp=groupXX@127.0.1.1:35010:   3]
+
+13-12-2018 17:16:51:599 groupXX@127.0.1.1:35013 [TRACE] : Summary: groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+13-12-2018 17:16:51:600 groupXX@127.0.1.1:35013 [TRACE] : Ack: groupXX@127.0.1.1:35009:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35008:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35007:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35006:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35005:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35014:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35013:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35012:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35011:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35010:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+
+13-12-2018 17:16:57:169 groupXX@127.0.1.1:35013 [DEBUG] : ##### [iteration: 4/36] sending partial result
+13-12-2018 17:16:57:169 groupXX@127.0.1.1:35013 [TRACE] : {adqgrlxu=[adqgrlxu, Content--adqgrlxu, groupXX], aycnkueo=[aycnkueo, Content--aycnkueo, groupXX], bcrhaxlg=[bcrhaxlg, Content--bcrhaxlg, groupXX], braclnyv=[braclnyv, Content--braclnyv, groupXX], cmvpoptp=[cmvpoptp, Content--cmvpoptp, groupXX], dbbcbmqk=[dbbcbmqk, Content--dbbcbmqk, groupXX], dnjcthni=[dnjcthni, Content--dnjcthni, groupXX], dquhnyhk=[dquhnyhk, Content--dquhnyhk, groupXX], ecumloym=[ecumloym, Content--ecumloym, groupXX], ehxeslxh=[ehxeslxh, Content--ehxeslxh, groupXX], euebrlcy=[euebrlcy, Content--euebrlcy, groupXX], exiauapb=[exiauapb, Content--exiauapb, groupXX], fajvbpvd=[fajvbpvd, Content--fajvbpvd, groupXX], fwuufyvn=[fwuufyvn, Content--fwuufyvn, groupXX], ikhhvsla=[ikhhvsla, Content--ikhhvsla, groupXX], iphykxse=[iphykxse, Content--iphykxse, groupXX], irabgyqi=[irabgyqi, Content--irabgyqi, groupXX], jbpqdaps=[jbpqdaps, Content--jbpqdaps, groupXX], jqrhhdxf=[jqrhhdxf, Content--jqrhhdxf, groupXX], jvmcyjvt=[jvmcyjvt, Content--jvmcyjvt, groupXX], kdfibbhq=[kdfibbhq, Content--kdfibbhq, groupXX], kgbplgbf=[kgbplgbf, Content--kgbplgbf, groupXX], kupfmksb=[kupfmksb, Content--kupfmksb, groupXX], lpvuygps=[lpvuygps, Content--lpvuygps, groupXX], lukmckus=[lukmckus, Content--lukmckus, groupXX], mgrrtflv=[mgrrtflv, Content--mgrrtflv, groupXX], mhfeqlyr=[mhfeqlyr, Content--mhfeqlyr, groupXX], mprnvmxj=[mprnvmxj, Content--mprnvmxj, groupXX], mufrntca=[mufrntca, Content--mufrntca, groupXX], muhdttcf=[muhdttcf, Content--muhdttcf, groupXX], mvfrfjur=[mvfrfjur, Content--mvfrfjur, groupXX], nuxwinem=[nuxwinem, Content--nuxwinem, groupXX], obuacvst=[obuacvst, Content--obuacvst, groupXX], ollwmdca=[ollwmdca, Content--ollwmdca, groupXX], onmtrifq=[onmtrifq, Content--onmtrifq, groupXX], ooydvocx=[ooydvocx, Content--ooydvocx, groupXX], patwswcs=[patwswcs, Content--patwswcs, groupXX], pknfiswi=[pknfiswi, Content--pknfiswi, groupXX], ptqdskxl=[ptqdskxl, Content--ptqdskxl, groupXX], pujkltco=[pujkltco, Content--pujkltco, groupXX], qdtbqndf=[qdtbqndf, Content--qdtbqndf, groupXX], qvkalpav=[qvkalpav, Content--qvkalpav, groupXX], rbesgqqc=[rbesgqqc, Content--rbesgqqc, groupXX], rgmfvemx=[rgmfvemx, Content--rgmfvemx, groupXX], rqtqnnfn=[rqtqnnfn, Content--rqtqnnfn, groupXX], topvhhtn=[topvhhtn, Content--topvhhtn, groupXX], tuywgvdh=[tuywgvdh, Content--tuywgvdh, groupXX], ubxfay^t=[ubxfay^t, Content--ubxfay^t, groupXX], ufggofqq=[ufggofqq, Content--ufggofqq, groupXX], usdvjumw=[usdvjumw, Content--usdvjumw, groupXX], vvxlotyp=[vvxlotyp, Content--vvxlotyp, groupXX], wkgfgtob=[wkgfgtob, Content--wkgfgtob, groupXX], xdgmtmem=[xdgmtmem, Content--xdgmtmem, groupXX], xjhoavsi=[xjhoavsi, Content--xjhoavsi, groupXX], yennxole=[yennxole, Content--yennxole, groupXX], yhcsjael=[yhcsjael, Content--yhcsjael, groupXX]}
+13-12-2018 17:16:57:170 groupXX@127.0.1.1:35013 [TRACE] : AddOperation [recipe=[mufrntca, Content--mufrntca, groupXX], timestamp=groupXX@127.0.1.1:35009:   0]
+AddOperation [recipe=[patwswcs, Content--patwswcs, groupXX], timestamp=groupXX@127.0.1.1:35009:   1]
+AddOperation [recipe=[ikhhvsla, Content--ikhhvsla, groupXX], timestamp=groupXX@127.0.1.1:35009:   2]
+AddOperation [recipe=[pknfiswi, Content--pknfiswi, groupXX], timestamp=groupXX@127.0.1.1:35009:   3]
+AddOperation [recipe=[mgrrtflv, Content--mgrrtflv, groupXX], timestamp=groupXX@127.0.1.1:35009:   4]
+AddOperation [recipe=[kdfibbhq, Content--kdfibbhq, groupXX], timestamp=groupXX@127.0.1.1:35009:   5]
+AddOperation [recipe=[wkgfgtob, Content--wkgfgtob, groupXX], timestamp=groupXX@127.0.1.1:35008:   0]
+AddOperation [recipe=[yhcsjael, Content--yhcsjael, groupXX], timestamp=groupXX@127.0.1.1:35008:   1]
+AddOperation [recipe=[ufggofqq, Content--ufggofqq, groupXX], timestamp=groupXX@127.0.1.1:35008:   2]
+AddOperation [recipe=[xdgmtmem, Content--xdgmtmem, groupXX], timestamp=groupXX@127.0.1.1:35008:   3]
+AddOperation [recipe=[braclnyv, Content--braclnyv, groupXX], timestamp=groupXX@127.0.1.1:35007:   0]
+AddOperation [recipe=[ollwmdca, Content--ollwmdca, groupXX], timestamp=groupXX@127.0.1.1:35007:   1]
+AddOperation [recipe=[rgmfvemx, Content--rgmfvemx, groupXX], timestamp=groupXX@127.0.1.1:35007:   2]
+AddOperation [recipe=[qdtbqndf, Content--qdtbqndf, groupXX], timestamp=groupXX@127.0.1.1:35006:   0]
+AddOperation [recipe=[qvkalpav, Content--qvkalpav, groupXX], timestamp=groupXX@127.0.1.1:35006:   1]
+AddOperation [recipe=[muhdttcf, Content--muhdttcf, groupXX], timestamp=groupXX@127.0.1.1:35005:   0]
+AddOperation [recipe=[lpvuygps, Content--lpvuygps, groupXX], timestamp=groupXX@127.0.1.1:35005:   1]
+AddOperation [recipe=[fwuufyvn, Content--fwuufyvn, groupXX], timestamp=groupXX@127.0.1.1:35005:   2]
+AddOperation [recipe=[mhfeqlyr, Content--mhfeqlyr, groupXX], timestamp=groupXX@127.0.1.1:35005:   3]
+AddOperation [recipe=[aycnkueo, Content--aycnkueo, groupXX], timestamp=groupXX@127.0.1.1:35005:   4]
+AddOperation [recipe=[ptqdskxl, Content--ptqdskxl, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+AddOperation [recipe=[ooydvocx, Content--ooydvocx, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[kupfmksb, Content--kupfmksb, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[dquhnyhk, Content--dquhnyhk, groupXX], timestamp=groupXX@127.0.1.1:35014:   0]
+AddOperation [recipe=[yennxole, Content--yennxole, groupXX], timestamp=groupXX@127.0.1.1:35014:   1]
+AddOperation [recipe=[adqgrlxu, Content--adqgrlxu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kgbplgbf, Content--kgbplgbf, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[exiauapb, Content--exiauapb, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[irabgyqi, Content--irabgyqi, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[jqrhhdxf, Content--jqrhhdxf, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[ehxeslxh, Content--ehxeslxh, groupXX], timestamp=groupXX@127.0.1.1:35013:   0]
+AddOperation [recipe=[xjhoavsi, Content--xjhoavsi, groupXX], timestamp=groupXX@127.0.1.1:35013:   1]
+AddOperation [recipe=[rqtqnnfn, Content--rqtqnnfn, groupXX], timestamp=groupXX@127.0.1.1:35013:   2]
+AddOperation [recipe=[nuxwinem, Content--nuxwinem, groupXX], timestamp=groupXX@127.0.1.1:35013:   3]
+AddOperation [recipe=[mprnvmxj, Content--mprnvmxj, groupXX], timestamp=groupXX@127.0.1.1:35013:   4]
+AddOperation [recipe=[usdvjumw, Content--usdvjumw, groupXX], timestamp=groupXX@127.0.1.1:35013:   5]
+AddOperation [recipe=[tuywgvdh, Content--tuywgvdh, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[onmtrifq, Content--onmtrifq, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[ubxfay^t, Content--ubxfay^t, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[rbesgqqc, Content--rbesgqqc, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[jbpqdaps, Content--jbpqdaps, groupXX], timestamp=groupXX@127.0.1.1:35012:   0]
+AddOperation [recipe=[cmvpoptp, Content--cmvpoptp, groupXX], timestamp=groupXX@127.0.1.1:35012:   1]
+AddOperation [recipe=[ecumloym, Content--ecumloym, groupXX], timestamp=groupXX@127.0.1.1:35012:   2]
+AddOperation [recipe=[pujkltco, Content--pujkltco, groupXX], timestamp=groupXX@127.0.1.1:35012:   3]
+AddOperation [recipe=[vvxlotyp, Content--vvxlotyp, groupXX], timestamp=groupXX@127.0.1.1:35012:   4]
+AddOperation [recipe=[bcrhaxlg, Content--bcrhaxlg, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[obuacvst, Content--obuacvst, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[mvfrfjur, Content--mvfrfjur, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[iphykxse, Content--iphykxse, groupXX], timestamp=groupXX@127.0.1.1:35000:   3]
+AddOperation [recipe=[topvhhtn, Content--topvhhtn, groupXX], timestamp=groupXX@127.0.1.1:35011:   0]
+AddOperation [recipe=[fajvbpvd, Content--fajvbpvd, groupXX], timestamp=groupXX@127.0.1.1:35011:   1]
+AddOperation [recipe=[dbbcbmqk, Content--dbbcbmqk, groupXX], timestamp=groupXX@127.0.1.1:35011:   2]
+AddOperation [recipe=[dnjcthni, Content--dnjcthni, groupXX], timestamp=groupXX@127.0.1.1:35010:   0]
+AddOperation [recipe=[jvmcyjvt, Content--jvmcyjvt, groupXX], timestamp=groupXX@127.0.1.1:35010:   1]
+AddOperation [recipe=[euebrlcy, Content--euebrlcy, groupXX], timestamp=groupXX@127.0.1.1:35010:   2]
+AddOperation [recipe=[lukmckus, Content--lukmckus, groupXX], timestamp=groupXX@127.0.1.1:35010:   3]
+
+13-12-2018 17:16:57:170 groupXX@127.0.1.1:35013 [TRACE] : Summary: groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+13-12-2018 17:16:57:171 groupXX@127.0.1.1:35013 [TRACE] : Ack: groupXX@127.0.1.1:35009:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35008:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35007:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35006:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35005:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35014:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35013:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35012:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35011:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35010:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+
+13-12-2018 17:17:02:701 groupXX@127.0.1.1:35013 [DEBUG] : ##### [iteration: 5/36] sending partial result
+13-12-2018 17:17:02:703 groupXX@127.0.1.1:35013 [TRACE] : {adqgrlxu=[adqgrlxu, Content--adqgrlxu, groupXX], aycnkueo=[aycnkueo, Content--aycnkueo, groupXX], bcrhaxlg=[bcrhaxlg, Content--bcrhaxlg, groupXX], braclnyv=[braclnyv, Content--braclnyv, groupXX], cmvpoptp=[cmvpoptp, Content--cmvpoptp, groupXX], dbbcbmqk=[dbbcbmqk, Content--dbbcbmqk, groupXX], dnjcthni=[dnjcthni, Content--dnjcthni, groupXX], dquhnyhk=[dquhnyhk, Content--dquhnyhk, groupXX], ecumloym=[ecumloym, Content--ecumloym, groupXX], ehxeslxh=[ehxeslxh, Content--ehxeslxh, groupXX], euebrlcy=[euebrlcy, Content--euebrlcy, groupXX], exiauapb=[exiauapb, Content--exiauapb, groupXX], fajvbpvd=[fajvbpvd, Content--fajvbpvd, groupXX], fwuufyvn=[fwuufyvn, Content--fwuufyvn, groupXX], ikhhvsla=[ikhhvsla, Content--ikhhvsla, groupXX], iphykxse=[iphykxse, Content--iphykxse, groupXX], irabgyqi=[irabgyqi, Content--irabgyqi, groupXX], jbpqdaps=[jbpqdaps, Content--jbpqdaps, groupXX], jqrhhdxf=[jqrhhdxf, Content--jqrhhdxf, groupXX], jvmcyjvt=[jvmcyjvt, Content--jvmcyjvt, groupXX], kdfibbhq=[kdfibbhq, Content--kdfibbhq, groupXX], kgbplgbf=[kgbplgbf, Content--kgbplgbf, groupXX], kupfmksb=[kupfmksb, Content--kupfmksb, groupXX], lpvuygps=[lpvuygps, Content--lpvuygps, groupXX], lukmckus=[lukmckus, Content--lukmckus, groupXX], mgrrtflv=[mgrrtflv, Content--mgrrtflv, groupXX], mhfeqlyr=[mhfeqlyr, Content--mhfeqlyr, groupXX], mprnvmxj=[mprnvmxj, Content--mprnvmxj, groupXX], mufrntca=[mufrntca, Content--mufrntca, groupXX], muhdttcf=[muhdttcf, Content--muhdttcf, groupXX], mvfrfjur=[mvfrfjur, Content--mvfrfjur, groupXX], nuxwinem=[nuxwinem, Content--nuxwinem, groupXX], obuacvst=[obuacvst, Content--obuacvst, groupXX], ollwmdca=[ollwmdca, Content--ollwmdca, groupXX], onmtrifq=[onmtrifq, Content--onmtrifq, groupXX], ooydvocx=[ooydvocx, Content--ooydvocx, groupXX], patwswcs=[patwswcs, Content--patwswcs, groupXX], pknfiswi=[pknfiswi, Content--pknfiswi, groupXX], ptqdskxl=[ptqdskxl, Content--ptqdskxl, groupXX], pujkltco=[pujkltco, Content--pujkltco, groupXX], qdtbqndf=[qdtbqndf, Content--qdtbqndf, groupXX], qvkalpav=[qvkalpav, Content--qvkalpav, groupXX], rbesgqqc=[rbesgqqc, Content--rbesgqqc, groupXX], rgmfvemx=[rgmfvemx, Content--rgmfvemx, groupXX], rqtqnnfn=[rqtqnnfn, Content--rqtqnnfn, groupXX], topvhhtn=[topvhhtn, Content--topvhhtn, groupXX], tuywgvdh=[tuywgvdh, Content--tuywgvdh, groupXX], ubxfay^t=[ubxfay^t, Content--ubxfay^t, groupXX], ufggofqq=[ufggofqq, Content--ufggofqq, groupXX], usdvjumw=[usdvjumw, Content--usdvjumw, groupXX], vvxlotyp=[vvxlotyp, Content--vvxlotyp, groupXX], wkgfgtob=[wkgfgtob, Content--wkgfgtob, groupXX], xdgmtmem=[xdgmtmem, Content--xdgmtmem, groupXX], xjhoavsi=[xjhoavsi, Content--xjhoavsi, groupXX], yennxole=[yennxole, Content--yennxole, groupXX], yhcsjael=[yhcsjael, Content--yhcsjael, groupXX]}
+13-12-2018 17:17:02:703 groupXX@127.0.1.1:35013 [TRACE] : AddOperation [recipe=[mufrntca, Content--mufrntca, groupXX], timestamp=groupXX@127.0.1.1:35009:   0]
+AddOperation [recipe=[patwswcs, Content--patwswcs, groupXX], timestamp=groupXX@127.0.1.1:35009:   1]
+AddOperation [recipe=[ikhhvsla, Content--ikhhvsla, groupXX], timestamp=groupXX@127.0.1.1:35009:   2]
+AddOperation [recipe=[pknfiswi, Content--pknfiswi, groupXX], timestamp=groupXX@127.0.1.1:35009:   3]
+AddOperation [recipe=[mgrrtflv, Content--mgrrtflv, groupXX], timestamp=groupXX@127.0.1.1:35009:   4]
+AddOperation [recipe=[kdfibbhq, Content--kdfibbhq, groupXX], timestamp=groupXX@127.0.1.1:35009:   5]
+AddOperation [recipe=[wkgfgtob, Content--wkgfgtob, groupXX], timestamp=groupXX@127.0.1.1:35008:   0]
+AddOperation [recipe=[yhcsjael, Content--yhcsjael, groupXX], timestamp=groupXX@127.0.1.1:35008:   1]
+AddOperation [recipe=[ufggofqq, Content--ufggofqq, groupXX], timestamp=groupXX@127.0.1.1:35008:   2]
+AddOperation [recipe=[xdgmtmem, Content--xdgmtmem, groupXX], timestamp=groupXX@127.0.1.1:35008:   3]
+AddOperation [recipe=[braclnyv, Content--braclnyv, groupXX], timestamp=groupXX@127.0.1.1:35007:   0]
+AddOperation [recipe=[ollwmdca, Content--ollwmdca, groupXX], timestamp=groupXX@127.0.1.1:35007:   1]
+AddOperation [recipe=[rgmfvemx, Content--rgmfvemx, groupXX], timestamp=groupXX@127.0.1.1:35007:   2]
+AddOperation [recipe=[qdtbqndf, Content--qdtbqndf, groupXX], timestamp=groupXX@127.0.1.1:35006:   0]
+AddOperation [recipe=[qvkalpav, Content--qvkalpav, groupXX], timestamp=groupXX@127.0.1.1:35006:   1]
+AddOperation [recipe=[muhdttcf, Content--muhdttcf, groupXX], timestamp=groupXX@127.0.1.1:35005:   0]
+AddOperation [recipe=[lpvuygps, Content--lpvuygps, groupXX], timestamp=groupXX@127.0.1.1:35005:   1]
+AddOperation [recipe=[fwuufyvn, Content--fwuufyvn, groupXX], timestamp=groupXX@127.0.1.1:35005:   2]
+AddOperation [recipe=[mhfeqlyr, Content--mhfeqlyr, groupXX], timestamp=groupXX@127.0.1.1:35005:   3]
+AddOperation [recipe=[aycnkueo, Content--aycnkueo, groupXX], timestamp=groupXX@127.0.1.1:35005:   4]
+AddOperation [recipe=[ptqdskxl, Content--ptqdskxl, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+AddOperation [recipe=[ooydvocx, Content--ooydvocx, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[kupfmksb, Content--kupfmksb, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[dquhnyhk, Content--dquhnyhk, groupXX], timestamp=groupXX@127.0.1.1:35014:   0]
+AddOperation [recipe=[yennxole, Content--yennxole, groupXX], timestamp=groupXX@127.0.1.1:35014:   1]
+AddOperation [recipe=[adqgrlxu, Content--adqgrlxu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kgbplgbf, Content--kgbplgbf, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[exiauapb, Content--exiauapb, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[irabgyqi, Content--irabgyqi, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[jqrhhdxf, Content--jqrhhdxf, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[ehxeslxh, Content--ehxeslxh, groupXX], timestamp=groupXX@127.0.1.1:35013:   0]
+AddOperation [recipe=[xjhoavsi, Content--xjhoavsi, groupXX], timestamp=groupXX@127.0.1.1:35013:   1]
+AddOperation [recipe=[rqtqnnfn, Content--rqtqnnfn, groupXX], timestamp=groupXX@127.0.1.1:35013:   2]
+AddOperation [recipe=[nuxwinem, Content--nuxwinem, groupXX], timestamp=groupXX@127.0.1.1:35013:   3]
+AddOperation [recipe=[mprnvmxj, Content--mprnvmxj, groupXX], timestamp=groupXX@127.0.1.1:35013:   4]
+AddOperation [recipe=[usdvjumw, Content--usdvjumw, groupXX], timestamp=groupXX@127.0.1.1:35013:   5]
+AddOperation [recipe=[tuywgvdh, Content--tuywgvdh, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[onmtrifq, Content--onmtrifq, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[ubxfay^t, Content--ubxfay^t, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[rbesgqqc, Content--rbesgqqc, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[jbpqdaps, Content--jbpqdaps, groupXX], timestamp=groupXX@127.0.1.1:35012:   0]
+AddOperation [recipe=[cmvpoptp, Content--cmvpoptp, groupXX], timestamp=groupXX@127.0.1.1:35012:   1]
+AddOperation [recipe=[ecumloym, Content--ecumloym, groupXX], timestamp=groupXX@127.0.1.1:35012:   2]
+AddOperation [recipe=[pujkltco, Content--pujkltco, groupXX], timestamp=groupXX@127.0.1.1:35012:   3]
+AddOperation [recipe=[vvxlotyp, Content--vvxlotyp, groupXX], timestamp=groupXX@127.0.1.1:35012:   4]
+AddOperation [recipe=[bcrhaxlg, Content--bcrhaxlg, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[obuacvst, Content--obuacvst, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[mvfrfjur, Content--mvfrfjur, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[iphykxse, Content--iphykxse, groupXX], timestamp=groupXX@127.0.1.1:35000:   3]
+AddOperation [recipe=[topvhhtn, Content--topvhhtn, groupXX], timestamp=groupXX@127.0.1.1:35011:   0]
+AddOperation [recipe=[fajvbpvd, Content--fajvbpvd, groupXX], timestamp=groupXX@127.0.1.1:35011:   1]
+AddOperation [recipe=[dbbcbmqk, Content--dbbcbmqk, groupXX], timestamp=groupXX@127.0.1.1:35011:   2]
+AddOperation [recipe=[dnjcthni, Content--dnjcthni, groupXX], timestamp=groupXX@127.0.1.1:35010:   0]
+AddOperation [recipe=[jvmcyjvt, Content--jvmcyjvt, groupXX], timestamp=groupXX@127.0.1.1:35010:   1]
+AddOperation [recipe=[euebrlcy, Content--euebrlcy, groupXX], timestamp=groupXX@127.0.1.1:35010:   2]
+AddOperation [recipe=[lukmckus, Content--lukmckus, groupXX], timestamp=groupXX@127.0.1.1:35010:   3]
+
+13-12-2018 17:17:02:704 groupXX@127.0.1.1:35013 [TRACE] : Summary: groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+13-12-2018 17:17:02:704 groupXX@127.0.1.1:35013 [TRACE] : Ack: groupXX@127.0.1.1:35009:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35008:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35007:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35006:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35005:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35014:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35013:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35012:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35011:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35010:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+
+13-12-2018 17:17:08:939 groupXX@127.0.1.1:35013 [DEBUG] : ##### [iteration: 6/36] sending partial result
+13-12-2018 17:17:08:940 groupXX@127.0.1.1:35013 [TRACE] : {adqgrlxu=[adqgrlxu, Content--adqgrlxu, groupXX], aycnkueo=[aycnkueo, Content--aycnkueo, groupXX], bcrhaxlg=[bcrhaxlg, Content--bcrhaxlg, groupXX], braclnyv=[braclnyv, Content--braclnyv, groupXX], cmvpoptp=[cmvpoptp, Content--cmvpoptp, groupXX], dbbcbmqk=[dbbcbmqk, Content--dbbcbmqk, groupXX], dnjcthni=[dnjcthni, Content--dnjcthni, groupXX], dquhnyhk=[dquhnyhk, Content--dquhnyhk, groupXX], ecumloym=[ecumloym, Content--ecumloym, groupXX], ehxeslxh=[ehxeslxh, Content--ehxeslxh, groupXX], euebrlcy=[euebrlcy, Content--euebrlcy, groupXX], exiauapb=[exiauapb, Content--exiauapb, groupXX], fajvbpvd=[fajvbpvd, Content--fajvbpvd, groupXX], fwuufyvn=[fwuufyvn, Content--fwuufyvn, groupXX], ikhhvsla=[ikhhvsla, Content--ikhhvsla, groupXX], iphykxse=[iphykxse, Content--iphykxse, groupXX], irabgyqi=[irabgyqi, Content--irabgyqi, groupXX], jbpqdaps=[jbpqdaps, Content--jbpqdaps, groupXX], jqrhhdxf=[jqrhhdxf, Content--jqrhhdxf, groupXX], jvmcyjvt=[jvmcyjvt, Content--jvmcyjvt, groupXX], kdfibbhq=[kdfibbhq, Content--kdfibbhq, groupXX], kgbplgbf=[kgbplgbf, Content--kgbplgbf, groupXX], kupfmksb=[kupfmksb, Content--kupfmksb, groupXX], lpvuygps=[lpvuygps, Content--lpvuygps, groupXX], lukmckus=[lukmckus, Content--lukmckus, groupXX], mgrrtflv=[mgrrtflv, Content--mgrrtflv, groupXX], mhfeqlyr=[mhfeqlyr, Content--mhfeqlyr, groupXX], mprnvmxj=[mprnvmxj, Content--mprnvmxj, groupXX], mufrntca=[mufrntca, Content--mufrntca, groupXX], muhdttcf=[muhdttcf, Content--muhdttcf, groupXX], mvfrfjur=[mvfrfjur, Content--mvfrfjur, groupXX], nuxwinem=[nuxwinem, Content--nuxwinem, groupXX], obuacvst=[obuacvst, Content--obuacvst, groupXX], ollwmdca=[ollwmdca, Content--ollwmdca, groupXX], onmtrifq=[onmtrifq, Content--onmtrifq, groupXX], ooydvocx=[ooydvocx, Content--ooydvocx, groupXX], patwswcs=[patwswcs, Content--patwswcs, groupXX], pknfiswi=[pknfiswi, Content--pknfiswi, groupXX], ptqdskxl=[ptqdskxl, Content--ptqdskxl, groupXX], pujkltco=[pujkltco, Content--pujkltco, groupXX], qdtbqndf=[qdtbqndf, Content--qdtbqndf, groupXX], qvkalpav=[qvkalpav, Content--qvkalpav, groupXX], rbesgqqc=[rbesgqqc, Content--rbesgqqc, groupXX], rgmfvemx=[rgmfvemx, Content--rgmfvemx, groupXX], rqtqnnfn=[rqtqnnfn, Content--rqtqnnfn, groupXX], topvhhtn=[topvhhtn, Content--topvhhtn, groupXX], tuywgvdh=[tuywgvdh, Content--tuywgvdh, groupXX], ubxfay^t=[ubxfay^t, Content--ubxfay^t, groupXX], ufggofqq=[ufggofqq, Content--ufggofqq, groupXX], usdvjumw=[usdvjumw, Content--usdvjumw, groupXX], vvxlotyp=[vvxlotyp, Content--vvxlotyp, groupXX], wkgfgtob=[wkgfgtob, Content--wkgfgtob, groupXX], xdgmtmem=[xdgmtmem, Content--xdgmtmem, groupXX], xjhoavsi=[xjhoavsi, Content--xjhoavsi, groupXX], yennxole=[yennxole, Content--yennxole, groupXX], yhcsjael=[yhcsjael, Content--yhcsjael, groupXX]}
+13-12-2018 17:17:08:945 groupXX@127.0.1.1:35013 [TRACE] : AddOperation [recipe=[mufrntca, Content--mufrntca, groupXX], timestamp=groupXX@127.0.1.1:35009:   0]
+AddOperation [recipe=[patwswcs, Content--patwswcs, groupXX], timestamp=groupXX@127.0.1.1:35009:   1]
+AddOperation [recipe=[ikhhvsla, Content--ikhhvsla, groupXX], timestamp=groupXX@127.0.1.1:35009:   2]
+AddOperation [recipe=[pknfiswi, Content--pknfiswi, groupXX], timestamp=groupXX@127.0.1.1:35009:   3]
+AddOperation [recipe=[mgrrtflv, Content--mgrrtflv, groupXX], timestamp=groupXX@127.0.1.1:35009:   4]
+AddOperation [recipe=[kdfibbhq, Content--kdfibbhq, groupXX], timestamp=groupXX@127.0.1.1:35009:   5]
+AddOperation [recipe=[wkgfgtob, Content--wkgfgtob, groupXX], timestamp=groupXX@127.0.1.1:35008:   0]
+AddOperation [recipe=[yhcsjael, Content--yhcsjael, groupXX], timestamp=groupXX@127.0.1.1:35008:   1]
+AddOperation [recipe=[ufggofqq, Content--ufggofqq, groupXX], timestamp=groupXX@127.0.1.1:35008:   2]
+AddOperation [recipe=[xdgmtmem, Content--xdgmtmem, groupXX], timestamp=groupXX@127.0.1.1:35008:   3]
+AddOperation [recipe=[braclnyv, Content--braclnyv, groupXX], timestamp=groupXX@127.0.1.1:35007:   0]
+AddOperation [recipe=[ollwmdca, Content--ollwmdca, groupXX], timestamp=groupXX@127.0.1.1:35007:   1]
+AddOperation [recipe=[rgmfvemx, Content--rgmfvemx, groupXX], timestamp=groupXX@127.0.1.1:35007:   2]
+AddOperation [recipe=[qdtbqndf, Content--qdtbqndf, groupXX], timestamp=groupXX@127.0.1.1:35006:   0]
+AddOperation [recipe=[qvkalpav, Content--qvkalpav, groupXX], timestamp=groupXX@127.0.1.1:35006:   1]
+AddOperation [recipe=[muhdttcf, Content--muhdttcf, groupXX], timestamp=groupXX@127.0.1.1:35005:   0]
+AddOperation [recipe=[lpvuygps, Content--lpvuygps, groupXX], timestamp=groupXX@127.0.1.1:35005:   1]
+AddOperation [recipe=[fwuufyvn, Content--fwuufyvn, groupXX], timestamp=groupXX@127.0.1.1:35005:   2]
+AddOperation [recipe=[mhfeqlyr, Content--mhfeqlyr, groupXX], timestamp=groupXX@127.0.1.1:35005:   3]
+AddOperation [recipe=[aycnkueo, Content--aycnkueo, groupXX], timestamp=groupXX@127.0.1.1:35005:   4]
+AddOperation [recipe=[ptqdskxl, Content--ptqdskxl, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+AddOperation [recipe=[ooydvocx, Content--ooydvocx, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[kupfmksb, Content--kupfmksb, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[dquhnyhk, Content--dquhnyhk, groupXX], timestamp=groupXX@127.0.1.1:35014:   0]
+AddOperation [recipe=[yennxole, Content--yennxole, groupXX], timestamp=groupXX@127.0.1.1:35014:   1]
+AddOperation [recipe=[adqgrlxu, Content--adqgrlxu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kgbplgbf, Content--kgbplgbf, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[exiauapb, Content--exiauapb, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[irabgyqi, Content--irabgyqi, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[jqrhhdxf, Content--jqrhhdxf, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[ehxeslxh, Content--ehxeslxh, groupXX], timestamp=groupXX@127.0.1.1:35013:   0]
+AddOperation [recipe=[xjhoavsi, Content--xjhoavsi, groupXX], timestamp=groupXX@127.0.1.1:35013:   1]
+AddOperation [recipe=[rqtqnnfn, Content--rqtqnnfn, groupXX], timestamp=groupXX@127.0.1.1:35013:   2]
+AddOperation [recipe=[nuxwinem, Content--nuxwinem, groupXX], timestamp=groupXX@127.0.1.1:35013:   3]
+AddOperation [recipe=[mprnvmxj, Content--mprnvmxj, groupXX], timestamp=groupXX@127.0.1.1:35013:   4]
+AddOperation [recipe=[usdvjumw, Content--usdvjumw, groupXX], timestamp=groupXX@127.0.1.1:35013:   5]
+AddOperation [recipe=[tuywgvdh, Content--tuywgvdh, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[onmtrifq, Content--onmtrifq, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[ubxfay^t, Content--ubxfay^t, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[rbesgqqc, Content--rbesgqqc, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[jbpqdaps, Content--jbpqdaps, groupXX], timestamp=groupXX@127.0.1.1:35012:   0]
+AddOperation [recipe=[cmvpoptp, Content--cmvpoptp, groupXX], timestamp=groupXX@127.0.1.1:35012:   1]
+AddOperation [recipe=[ecumloym, Content--ecumloym, groupXX], timestamp=groupXX@127.0.1.1:35012:   2]
+AddOperation [recipe=[pujkltco, Content--pujkltco, groupXX], timestamp=groupXX@127.0.1.1:35012:   3]
+AddOperation [recipe=[vvxlotyp, Content--vvxlotyp, groupXX], timestamp=groupXX@127.0.1.1:35012:   4]
+AddOperation [recipe=[bcrhaxlg, Content--bcrhaxlg, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[obuacvst, Content--obuacvst, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[mvfrfjur, Content--mvfrfjur, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[iphykxse, Content--iphykxse, groupXX], timestamp=groupXX@127.0.1.1:35000:   3]
+AddOperation [recipe=[topvhhtn, Content--topvhhtn, groupXX], timestamp=groupXX@127.0.1.1:35011:   0]
+AddOperation [recipe=[fajvbpvd, Content--fajvbpvd, groupXX], timestamp=groupXX@127.0.1.1:35011:   1]
+AddOperation [recipe=[dbbcbmqk, Content--dbbcbmqk, groupXX], timestamp=groupXX@127.0.1.1:35011:   2]
+AddOperation [recipe=[dnjcthni, Content--dnjcthni, groupXX], timestamp=groupXX@127.0.1.1:35010:   0]
+AddOperation [recipe=[jvmcyjvt, Content--jvmcyjvt, groupXX], timestamp=groupXX@127.0.1.1:35010:   1]
+AddOperation [recipe=[euebrlcy, Content--euebrlcy, groupXX], timestamp=groupXX@127.0.1.1:35010:   2]
+AddOperation [recipe=[lukmckus, Content--lukmckus, groupXX], timestamp=groupXX@127.0.1.1:35010:   3]
+
+13-12-2018 17:17:08:945 groupXX@127.0.1.1:35013 [TRACE] : Summary: groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+13-12-2018 17:17:08:946 groupXX@127.0.1.1:35013 [TRACE] : Ack: groupXX@127.0.1.1:35009:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35008:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35007:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35006:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35005:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35014:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35013:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35012:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35011:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35010:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+
+13-12-2018 17:17:14:914 groupXX@127.0.1.1:35013 [DEBUG] : ##### [iteration: 7/36] sending partial result
+13-12-2018 17:17:14:915 groupXX@127.0.1.1:35013 [TRACE] : {adqgrlxu=[adqgrlxu, Content--adqgrlxu, groupXX], aycnkueo=[aycnkueo, Content--aycnkueo, groupXX], bcrhaxlg=[bcrhaxlg, Content--bcrhaxlg, groupXX], braclnyv=[braclnyv, Content--braclnyv, groupXX], cmvpoptp=[cmvpoptp, Content--cmvpoptp, groupXX], dbbcbmqk=[dbbcbmqk, Content--dbbcbmqk, groupXX], dnjcthni=[dnjcthni, Content--dnjcthni, groupXX], dquhnyhk=[dquhnyhk, Content--dquhnyhk, groupXX], ecumloym=[ecumloym, Content--ecumloym, groupXX], ehxeslxh=[ehxeslxh, Content--ehxeslxh, groupXX], euebrlcy=[euebrlcy, Content--euebrlcy, groupXX], exiauapb=[exiauapb, Content--exiauapb, groupXX], fajvbpvd=[fajvbpvd, Content--fajvbpvd, groupXX], fwuufyvn=[fwuufyvn, Content--fwuufyvn, groupXX], ikhhvsla=[ikhhvsla, Content--ikhhvsla, groupXX], iphykxse=[iphykxse, Content--iphykxse, groupXX], irabgyqi=[irabgyqi, Content--irabgyqi, groupXX], jbpqdaps=[jbpqdaps, Content--jbpqdaps, groupXX], jqrhhdxf=[jqrhhdxf, Content--jqrhhdxf, groupXX], jvmcyjvt=[jvmcyjvt, Content--jvmcyjvt, groupXX], kdfibbhq=[kdfibbhq, Content--kdfibbhq, groupXX], kgbplgbf=[kgbplgbf, Content--kgbplgbf, groupXX], kupfmksb=[kupfmksb, Content--kupfmksb, groupXX], lpvuygps=[lpvuygps, Content--lpvuygps, groupXX], lukmckus=[lukmckus, Content--lukmckus, groupXX], mgrrtflv=[mgrrtflv, Content--mgrrtflv, groupXX], mhfeqlyr=[mhfeqlyr, Content--mhfeqlyr, groupXX], mprnvmxj=[mprnvmxj, Content--mprnvmxj, groupXX], mufrntca=[mufrntca, Content--mufrntca, groupXX], muhdttcf=[muhdttcf, Content--muhdttcf, groupXX], mvfrfjur=[mvfrfjur, Content--mvfrfjur, groupXX], nuxwinem=[nuxwinem, Content--nuxwinem, groupXX], obuacvst=[obuacvst, Content--obuacvst, groupXX], ollwmdca=[ollwmdca, Content--ollwmdca, groupXX], onmtrifq=[onmtrifq, Content--onmtrifq, groupXX], ooydvocx=[ooydvocx, Content--ooydvocx, groupXX], patwswcs=[patwswcs, Content--patwswcs, groupXX], pknfiswi=[pknfiswi, Content--pknfiswi, groupXX], ptqdskxl=[ptqdskxl, Content--ptqdskxl, groupXX], pujkltco=[pujkltco, Content--pujkltco, groupXX], qdtbqndf=[qdtbqndf, Content--qdtbqndf, groupXX], qvkalpav=[qvkalpav, Content--qvkalpav, groupXX], rbesgqqc=[rbesgqqc, Content--rbesgqqc, groupXX], rgmfvemx=[rgmfvemx, Content--rgmfvemx, groupXX], rqtqnnfn=[rqtqnnfn, Content--rqtqnnfn, groupXX], topvhhtn=[topvhhtn, Content--topvhhtn, groupXX], tuywgvdh=[tuywgvdh, Content--tuywgvdh, groupXX], ubxfay^t=[ubxfay^t, Content--ubxfay^t, groupXX], ufggofqq=[ufggofqq, Content--ufggofqq, groupXX], usdvjumw=[usdvjumw, Content--usdvjumw, groupXX], vvxlotyp=[vvxlotyp, Content--vvxlotyp, groupXX], wkgfgtob=[wkgfgtob, Content--wkgfgtob, groupXX], xdgmtmem=[xdgmtmem, Content--xdgmtmem, groupXX], xjhoavsi=[xjhoavsi, Content--xjhoavsi, groupXX], yennxole=[yennxole, Content--yennxole, groupXX], yhcsjael=[yhcsjael, Content--yhcsjael, groupXX]}
+13-12-2018 17:17:14:921 groupXX@127.0.1.1:35013 [TRACE] : AddOperation [recipe=[mufrntca, Content--mufrntca, groupXX], timestamp=groupXX@127.0.1.1:35009:   0]
+AddOperation [recipe=[patwswcs, Content--patwswcs, groupXX], timestamp=groupXX@127.0.1.1:35009:   1]
+AddOperation [recipe=[ikhhvsla, Content--ikhhvsla, groupXX], timestamp=groupXX@127.0.1.1:35009:   2]
+AddOperation [recipe=[pknfiswi, Content--pknfiswi, groupXX], timestamp=groupXX@127.0.1.1:35009:   3]
+AddOperation [recipe=[mgrrtflv, Content--mgrrtflv, groupXX], timestamp=groupXX@127.0.1.1:35009:   4]
+AddOperation [recipe=[kdfibbhq, Content--kdfibbhq, groupXX], timestamp=groupXX@127.0.1.1:35009:   5]
+AddOperation [recipe=[wkgfgtob, Content--wkgfgtob, groupXX], timestamp=groupXX@127.0.1.1:35008:   0]
+AddOperation [recipe=[yhcsjael, Content--yhcsjael, groupXX], timestamp=groupXX@127.0.1.1:35008:   1]
+AddOperation [recipe=[ufggofqq, Content--ufggofqq, groupXX], timestamp=groupXX@127.0.1.1:35008:   2]
+AddOperation [recipe=[xdgmtmem, Content--xdgmtmem, groupXX], timestamp=groupXX@127.0.1.1:35008:   3]
+AddOperation [recipe=[braclnyv, Content--braclnyv, groupXX], timestamp=groupXX@127.0.1.1:35007:   0]
+AddOperation [recipe=[ollwmdca, Content--ollwmdca, groupXX], timestamp=groupXX@127.0.1.1:35007:   1]
+AddOperation [recipe=[rgmfvemx, Content--rgmfvemx, groupXX], timestamp=groupXX@127.0.1.1:35007:   2]
+AddOperation [recipe=[qdtbqndf, Content--qdtbqndf, groupXX], timestamp=groupXX@127.0.1.1:35006:   0]
+AddOperation [recipe=[qvkalpav, Content--qvkalpav, groupXX], timestamp=groupXX@127.0.1.1:35006:   1]
+AddOperation [recipe=[muhdttcf, Content--muhdttcf, groupXX], timestamp=groupXX@127.0.1.1:35005:   0]
+AddOperation [recipe=[lpvuygps, Content--lpvuygps, groupXX], timestamp=groupXX@127.0.1.1:35005:   1]
+AddOperation [recipe=[fwuufyvn, Content--fwuufyvn, groupXX], timestamp=groupXX@127.0.1.1:35005:   2]
+AddOperation [recipe=[mhfeqlyr, Content--mhfeqlyr, groupXX], timestamp=groupXX@127.0.1.1:35005:   3]
+AddOperation [recipe=[aycnkueo, Content--aycnkueo, groupXX], timestamp=groupXX@127.0.1.1:35005:   4]
+AddOperation [recipe=[ptqdskxl, Content--ptqdskxl, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+AddOperation [recipe=[ooydvocx, Content--ooydvocx, groupXX], timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[kupfmksb, Content--kupfmksb, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[dquhnyhk, Content--dquhnyhk, groupXX], timestamp=groupXX@127.0.1.1:35014:   0]
+AddOperation [recipe=[yennxole, Content--yennxole, groupXX], timestamp=groupXX@127.0.1.1:35014:   1]
+AddOperation [recipe=[adqgrlxu, Content--adqgrlxu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kgbplgbf, Content--kgbplgbf, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[exiauapb, Content--exiauapb, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[irabgyqi, Content--irabgyqi, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[jqrhhdxf, Content--jqrhhdxf, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[ehxeslxh, Content--ehxeslxh, groupXX], timestamp=groupXX@127.0.1.1:35013:   0]
+AddOperation [recipe=[xjhoavsi, Content--xjhoavsi, groupXX], timestamp=groupXX@127.0.1.1:35013:   1]
+AddOperation [recipe=[rqtqnnfn, Content--rqtqnnfn, groupXX], timestamp=groupXX@127.0.1.1:35013:   2]
+AddOperation [recipe=[nuxwinem, Content--nuxwinem, groupXX], timestamp=groupXX@127.0.1.1:35013:   3]
+AddOperation [recipe=[mprnvmxj, Content--mprnvmxj, groupXX], timestamp=groupXX@127.0.1.1:35013:   4]
+AddOperation [recipe=[usdvjumw, Content--usdvjumw, groupXX], timestamp=groupXX@127.0.1.1:35013:   5]
+AddOperation [recipe=[tuywgvdh, Content--tuywgvdh, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[onmtrifq, Content--onmtrifq, groupXX], timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[ubxfay^t, Content--ubxfay^t, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[rbesgqqc, Content--rbesgqqc, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[jbpqdaps, Content--jbpqdaps, groupXX], timestamp=groupXX@127.0.1.1:35012:   0]
+AddOperation [recipe=[cmvpoptp, Content--cmvpoptp, groupXX], timestamp=groupXX@127.0.1.1:35012:   1]
+AddOperation [recipe=[ecumloym, Content--ecumloym, groupXX], timestamp=groupXX@127.0.1.1:35012:   2]
+AddOperation [recipe=[pujkltco, Content--pujkltco, groupXX], timestamp=groupXX@127.0.1.1:35012:   3]
+AddOperation [recipe=[vvxlotyp, Content--vvxlotyp, groupXX], timestamp=groupXX@127.0.1.1:35012:   4]
+AddOperation [recipe=[bcrhaxlg, Content--bcrhaxlg, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[obuacvst, Content--obuacvst, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[mvfrfjur, Content--mvfrfjur, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[iphykxse, Content--iphykxse, groupXX], timestamp=groupXX@127.0.1.1:35000:   3]
+AddOperation [recipe=[topvhhtn, Content--topvhhtn, groupXX], timestamp=groupXX@127.0.1.1:35011:   0]
+AddOperation [recipe=[fajvbpvd, Content--fajvbpvd, groupXX], timestamp=groupXX@127.0.1.1:35011:   1]
+AddOperation [recipe=[dbbcbmqk, Content--dbbcbmqk, groupXX], timestamp=groupXX@127.0.1.1:35011:   2]
+AddOperation [recipe=[dnjcthni, Content--dnjcthni, groupXX], timestamp=groupXX@127.0.1.1:35010:   0]
+AddOperation [recipe=[jvmcyjvt, Content--jvmcyjvt, groupXX], timestamp=groupXX@127.0.1.1:35010:   1]
+AddOperation [recipe=[euebrlcy, Content--euebrlcy, groupXX], timestamp=groupXX@127.0.1.1:35010:   2]
+AddOperation [recipe=[lukmckus, Content--lukmckus, groupXX], timestamp=groupXX@127.0.1.1:35010:   3]
+
+13-12-2018 17:17:14:923 groupXX@127.0.1.1:35013 [TRACE] : Summary: groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+13-12-2018 17:17:14:934 groupXX@127.0.1.1:35013 [TRACE] : Ack: groupXX@127.0.1.1:35009:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35008:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35007:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35006:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35005:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35014:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35013:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   0
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   5
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   1
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35012:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35011:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+groupXX@127.0.1.1:35010:   groupXX@127.0.1.1:35009:   -1000
+groupXX@127.0.1.1:35008:   -1000
+groupXX@127.0.1.1:35007:   -1000
+groupXX@127.0.1.1:35006:   -1000
+groupXX@127.0.1.1:35005:   -1000
+groupXX@127.0.1.1:35004:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35014:   -1000
+groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35013:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35012:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35011:   -1000
+groupXX@127.0.1.1:35010:   -1000
+
+

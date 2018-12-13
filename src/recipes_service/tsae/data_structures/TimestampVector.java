@@ -138,50 +138,25 @@ public class TimestampVector implements Serializable{
 	/**
 	 * equals
 	 */
-	public synchronized boolean equals(Object obj){
+	public boolean equals(Object obj){
 	
-       System.out.println("Entra equal TIMESTAMPVECTOR: **** "+obj.toString());
-       try {
-			this.wait(1000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		//If is a null object or the class don't match between objects
-				if (obj == null || this.getClass() != obj.getClass() ){
-					return false;
-				}
-				
-				//If the object are the same
-				if (this == obj){
-					return true;
-				}
-				//Compare de HashMap list
-				TimestampVector tempVector = (TimestampVector) obj;
-				
-				/*System.out.println("SALE equal TIMESTAMPVECTOR: **** "+obj.toString());
-				System.out.println("COMPARA LOS DOS RESULTADOS A VER SI ES CIERTO: ");
-				System.out.println("ESTE ES EL PRIMERO"+ tempVector);
-				System.out.println("ESTE ES timestamp 1:"+ tempVector.timestampVector);
-				System.out.println("ESTE ES EL SEGUNDO"+ this);
-				System.out.println("ESTE ES timestamp 2:"+ this.timestampVector);*/
-				if(this.timestampVector.equals(tempVector.timestampVector)) {
-					//System.out.println(" -- ES TRUE !! --");
-				}else {
-					System.out.println("ENTRAAA");
-				}
-				
-				
-				//If there's and error/null of the hashmap table
-				if(this.timestampVector == null || tempVector.timestampVector == null){
-					System.out.println("ENTRAAA222");
-					return false;
-				}
-				
-				//Return comparaison in boolean result 
-				return this.timestampVector.equals(tempVector.timestampVector);
-		
-		
+       if(obj == null)
+    	   return false;
+       if(this==obj)
+    	   return true;
+       if(getClass() != obj.getClass())
+    	   return false;
+       
+       TimestampVector other = (TimestampVector) obj;
+       
+       if(this.timestampVector == other.timestampVector)
+    	   return true;
+       if(this.timestampVector==null)
+    	   return false;
+       if(other.timestampVector==null)
+    	   return false;
+       else
+    	   return this.timestampVector.equals(other.timestampVector);
 	}
 
 	/**

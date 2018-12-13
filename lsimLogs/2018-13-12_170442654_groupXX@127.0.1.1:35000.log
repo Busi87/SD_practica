@@ -1,0 +1,24 @@
+13-12-2018 17:04:42:654 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35000,groupXX@127.0.1.1:35000]
+13-12-2018 17:04:42:697 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
+13-12-2018 17:05:33:621 groupXX@127.0.1.1:35000 [DEBUG] : {asda=[asda, asda, groupXX], asdas=[asdas, asdasd, groupXX]}
+13-12-2018 17:05:33:622 groupXX@127.0.1.1:35000 [DEBUG] : AddOperation [recipe=[asdas, asdasd, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+AddOperation [recipe=[asda, asda, groupXX], timestamp=groupXX@127.0.1.1:35000:   0]
+
+13-12-2018 17:05:33:623 groupXX@127.0.1.1:35000 [DEBUG] : Summary: groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   0
+
+13-12-2018 17:05:33:624 groupXX@127.0.1.1:35000 [DEBUG] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35000:   0
+
+
+13-12-2018 17:05:33:625 groupXX@127.0.1.1:35000 [INFO] : END

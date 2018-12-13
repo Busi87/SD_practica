@@ -322,56 +322,19 @@ public class Log implements Serializable{
 	@Override
 	public synchronized boolean equals(Object obj) {
 		
-		//System.out.println("Entra equal LOG: ***** "+obj.toString());
-		
-		if (this == obj) {
-            return true;
-		}
-        
-        if(obj == null){
-            return false;
-        }
-        
-        if (getClass() != obj.getClass())
-            return false;
-        
-        Log other = (Log) obj;
-        
-        if (log == null) {
-            return other.log == null;
-        } else {
-            if (log.size() != other.log.size()){
-                return false;
-            }
-            boolean equal = true;
-            for (Iterator<String> it = log.keySet().iterator(); it.hasNext() && equal; ){
-                String host_name = it.next();
-                equal = log.get(host_name).equals(other.log.get(host_name));
-                if (!equal){
-                }
-            }
-            return equal;
-        }
-		
-		/*
-		//If is a null object or the class don't match between objects
-		if (obj == null || this.getClass() != obj.getClass() ){
-			return false;
-		}
-		
-		//If the object are the same
-		if (this == obj){
+		if(this==obj)
 			return true;
-		}
-		//Compare de HashMap list
-		Log tempObj = (Log) obj;
-		//If there's and error/null of the hashmap table
-		if(this.log == null || tempObj.log == null){
+		if(obj==null)
 			return false;
-		}
+		if(getClass() != obj.getClass())
+			return false;
+		Log other = (Log) obj;
+		if(this.log == other.log)
+			return true;
+		if(this.log == null || other.log==null)
+			return false;
 		
-		//Return comparaison in boolean result 
-		return this.log.equals(tempObj.log);*/
+		return this.log.equals(other.log);
 	}
 
 	/**
